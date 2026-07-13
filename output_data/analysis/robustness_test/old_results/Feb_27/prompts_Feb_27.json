@@ -1,0 +1,42 @@
+{
+    "classify" : {
+        "col_name": "safety",
+        "prompt": "Determine if this paper is AI safety research per this definition:\n AI Safety is a multidisciplinary field of research and practice dedicated to minimizing risks by ensuring that AI systems operate reliably, securely, transparently, and as intended when deployed. \n Output: TRUE or FALSE only."
+    },
+    "category_1" : {
+        "col_name": "indiv_grp_harm",
+        "prompt": "Determine if this paper discusses harms that affect specific individuals or groups in a non-physical way (e.g. a group patients receiving false diagnoses, an individual receiving reputational damage caused by hallucinations). \n Output: TRUE or FALSE only."
+    },
+    "category_2" : {
+        "col_name": "info_epistemic_harm",
+        "prompt": "Determine if this paper discusses information and epistemic harms that worsen public dialogue around critical issues (e.g. image generators that oversexualize women, LLMs that overrepresent fringe theories on climate). \n Output: TRUE or FALSE only."
+    },
+    "category_3" : {
+        "col_name": "socioec_harm",
+        "prompt": "Determine if this paper discusses harms that negatively affect social systems or institutions (e.g. AI-generated misinformation that affects democratic outcomes, job losses resulting from AI adoption).\n Output: TRUE or FALSE only."
+    },
+    "category_4" : { 
+        "col_name": "physical_harm",
+        "prompt": "Determine if this paper discusses physical harm (e.g. adversarial attack that causes self-driving cars to crash, AI clinical tools that result in misdiagnoses).\n Output: TRUE or FALSE only."
+    },
+    "category_5" : {
+        "col_name": "reliability_safety",
+        "prompt": "Determine if this paper discusses issues related to reliability and safety - i.e. whether AI tools behave as their users expect (e.g. AI hallucinating false statistics, medical AI systems causing incorrect medical diagnoses).\n Output: TRUE or FALSE only." 
+    },
+    "category_6" : {
+        "col_name": "bias_inequity",
+        "prompt": "Determine if this paper discusses issues related to bias and inequity - i.e. whether AI produces systematically unfair outcomes for certain groups (e.g. AI HR systems that downrank resumes with foreign or minority-sounding names, AI image generators that always oversexualize women).\n Output: TRUE or FALSE only."
+    },
+    "category_7" : {
+        "col_name": "security_resilience",
+        "prompt": "Determine if this paper discusses issues related to security and resilience - i.e. whether AI is robust against deliberate attacks and manipulation (e.g. prompt injection, adversarial images).\n Output: TRUE or FALSE only."
+    },
+    "category_8" : {
+        "col_name": "transparency_accountability",
+        "prompt": "Determine if this paper discusses issues related to transparency and accountability (e.g. whether AI systems that determine parole eligibility generate rationale that can be challenged, whether AI models for pricing insurance have explainable basis for their decisions).\n Output: TRUE or FALSE only."
+    },
+    "category_9" : {
+        "col_name": "alignment",
+        "prompt": "Determine if this paper discusses issues related to AI alignment - i.e. whether AIs goals and behaviors align with human values (e.g. AI moderators instructed to remove overly-sexual posts accidentally deleting posts by LGBTQ+ users who share images of top surgery, AI models overrepresenting fringe climate theories when asked to find flaws in current climate science).\n Output: TRUE or FALSE only."
+    }
+}

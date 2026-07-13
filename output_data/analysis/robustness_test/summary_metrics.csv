@@ -1,0 +1,14 @@
+category,accuracy
+Safety,0.8450704225352113
+Categorization (Overall),0.8
+indiv_grp_harm,0.7555555555555555
+info_epistemic_harm,0.7555555555555555
+socioec_harm,0.8222222222222222
+physical_harm,0.9555555555555556
+abstract_harm,0.6
+reliability_safety,0.6888888888888889
+bias_inequity,0.8888888888888888
+security_resilience,0.9333333333333333
+transparency_accountability,0.8
+alignment,0.6888888888888889
+governance,0.9111111111111111

@@ -1,0 +1,926 @@
+sponsor,is_bigtech,canonical_name
+bloomberg,False,NA
+google,True,Alphabet
+goldman-sachs,False,NA
+a9,True,Amazon
+ibm-watson,False,NA
+microsoft,True,Microsoft
+isi,False,NA
+nuance,False,NA
+sdl,False,NA
+yahoo-labs,False,NA
+interactions,False,NA
+uwashington,False,NA
+digital-roots,False,NA
+voicebox,False,NA
+machinezone,False,NA
+baobab,False,NA
+"Google, Inc.",True,Alphabet
+Microsoft,True,Microsoft
+"Taobao (China) Software Co., Ltd.",True,Alibaba
+Amazon,True,Amazon
+Apple Inc.,True,Apple
+Baidu USA,False,NA
+Citadel LLC,False,NA
+Facebook,True,Meta
+IBM Research,False,NA
+Ketchum Trading,False,NA
+NVIDIA,True,Nvidia
+The Voleon Group,False,NA
+Twitter,False,NA
+"Adobe Systems, Inc",False,NA
+AdRoll,False,NA
+Analog Devices | Lyric Labs,False,NA
+Artificial Intelligence Journal (AIJ),False,NA
+Bloomberg,False,NA
+CenturyLink Cognilytics,False,NA
+Criteo,False,NA
+Cubist Systematic Strategies,False,NA
+Deep Genomics,False,NA
+D. E. Shaw & Co.,False,NA
+Disney Research,False,NA
+"eBay, Inc.",False,NA
+Imagia,False,NA
+Maluuba Inc.,True,Microsoft
+Man AHL,False,NA
+minds.ai,False,NA
+Netflix,False,NA
+Oracle,True,Oracle
+Panasonic,False,NA
+PDT Partners,False,NA
+Sony,False,NA
+The Alan Turing Institute,False,NA
+Toyota,False,NA
+Two Sigma,False,NA
+United Technologies Research Center,False,NA
+Vatic Labs,False,NA
+Winton Capital Management,False,NA
+Yahoo Labs,False,NA
+Cambridge University Press,False,NA
+Springer Publishing,False,NA
+The MIT Press,False,NA
+alibaba,True,Alibaba
+Baidu,False,NA
+nsf1,False,NA
+amazon_logo_RGB,True,Amazon
+logo CA,False,NA
+fb_logo,True,Meta
+INRIA,False,NA
+intel,True,Intel
+MEL,False,NA
+MFG_logo_black,False,NA
+MSR_Logo,True,Microsoft
+Winton logo,False,NA
+adobe_logo_standard,False,NA
+ARM_Corp_RGB,False,NA
+logo-cristal,False,NA
+criteo,False,NA
+Netflix_Logo_Digital+Video,False,NA
+nokia,False,NA
+BrainCorporation,False,NA
+dr-logo-red,False,NA
+dropbox,False,NA
+fli logo,False,NA
+gresearch,False,NA
+logo_region,False,NA
+Grand_Logo_Numberly_Rose_Avec_Baseline_Grise_RVB,False,NA
+nvidia,True,Nvidia
+Springer,False,NA
+Logo_Technicolor,False,NA
+uber,False,NA
+ulille,False,NA
+All_Programmable_Lock_up,False,NA
+yahoolabs,False,NA
+yandex_eng_logo,False,NA
+facebook,True,Meta
+qualcomm,False,NA
+baidu,False,NA
+http://bit.ly/ibmwatsonjobs,False,NA
+developer.nvidia,True,Nvidia
+http://loop.ai,False,NA
+lib/exe/detail.php%3Fid=iclr2015:main&media=iclr2015:necla-logo.jpg.html,False,NA
+imagia,False,NA
+Google,True,Alphabet
+Maluuba,True,Microsoft
+Ebay,False,NA
+Optum 360,False,NA
+IBM TJ Watson Research Center,False,NA
+Huawei,True,Huawei
+OpenTable,False,NA
+Newsela,False,NA
+Grammarly,False,NA
+Adobe,False,NA
+Nuance,True,Microsoft
+Civis Analytics,False,NA
+Voicebox,False,NA
+Brandeis University Computational Linguistics,False,NA
+AIG,False,NA
+Apple,True,Apple
+"Audi of America, Inc.",False,NA
+Citadel,False,NA
+DCVC,False,NA
+DeepMind,True,Alphabet
+DiDi Chuxing,False,NA
+Intel Corporation,True,Intel
+KLA-Tencor,False,NA
+Tencent,True,Tencent
+Winton,False,NA
+Adobe Research,False,NA
+ALIBABA,True,Alibaba
+AtlaSense,False,NA
+360 International Development Co. Ltd.,False,NA
+Automotive Safety Technologies GmbH,False,NA
+"Cubist Systematic Strategies, LLC",False,NA
+eBay,False,NA
+FeatureX,False,NA
+G-Research,False,NA
+"Hutchin Hill Capital, LP",False,NA
+Jump Trading,False,NA
+NextAI,False,NA
+Optiver,False,NA
+Qualcomm,False,NA
+Renaissance Technologies,False,NA
+Robert Bosch GmbH,False,NA
+Rosetta Analytics,False,NA
+SAP SE,False,NA
+Sentient Technologies,False,NA
+The D. E. Shaw Group,False,NA
+"Two Sigma Investments, LP",False,NA
+United Technologies Research Centre Ireland,False,NA
+Beijing Institute of Big Data Research,False,NA
+BenevolentAI,False,NA
+"Cheetah Mobile America, Inc.",False,NA
+Datatang Technology,False,NA
+Invenia Labs,False,NA
+LLC Yandex,False,NA
+Nokia,False,NA
+Palantir Technologies,True,Palantir
+QuantumBlack,False,NA
+RBC,False,NA
+Recursion Pharmaceuticals,False,NA
+Schibsted Media Group,False,NA
+"SigOpt, Inc.",False,NA
+Telefonca I+D,False,NA
+Zalando SE,False,NA
+baidu_research_logo_whitebg,False,NA
+american,False,NA
+adobe,False,NA
+ali,True,Alibaba
+amazon_logo,True,Amazon
+Bosch_SL-en_4C_S,False,NA
+cubist,False,NA
+dwave,False,NA
+ibmlogo,False,NA
+Intel,True,Intel
+jump_trading_logo,False,NA
+NVLogo_2D,True,Nvidia
+PDT,False,NA
+qualcom,False,NA
+Salesforce,False,NA
+Shift,False,NA
+toyota,False,NA
+Voleon,False,NA
+Xilinx,False,NA
+ACC,False,NA
+Ansat,False,NA
+ARTINF,False,NA
+Cisco,False,NA
+sas,False,NA
+teralytics,False,NA
+TwoSigma,False,NA
+WorldQuant,False,NA
+yandex,False,NA
+www-ssl.intel,True,Intel
+engineering.twitter,False,NA
+https://www.amazon.jobs/en,True,Amazon
+clarifai,False,NA
+recursionpharma,False,NA
+dwavesys,False,NA
+labs.oracle,True,Oracle
+Audi,False,NA
+Nvidia,True,Nvidia
+Alibaba Group,True,Alibaba
+"Beijing Baidu Netcom Science Technology Co., Ltd",False,NA
+Capital One,False,NA
+Data Collective,False,NA
+Didi Chuxing,False,NA
+"Facebook, Inc",True,Meta
+Graphcore,False,NA
+KLA -Tencor,False,NA
+NAVER | LINE,False,NA
+Tencent AI Lab,True,Tencent
+"Uber Technologies, Inc",False,NA
+"Airbnb, Inc.",False,NA
+Borealis AI,False,NA
+Criteo Reasearch,False,NA
+Element AI,False,NA
+JD.com,False,NA
+Mercedes-Benz Research and Development North America,False,NA
+Microsoft Research Maluuba,True,Microsoft
+Preferred Networks,False,NA
+Renaissance Technologies LLC,False,NA
+Winton Group,False,NA
+AIG Science,False,NA
+AutoX,False,NA
+Bytedance Inc.,True,Bytedance
+Cirrascale Cloud Services,False,NA
+Cogent Labs,False,NA
+CrowdFlower,False,NA
+G Research,False,NA
+Hudson River Trading,False,NA
+JPMorgan Chase & Co.,False,NA
+Lambda Labs,False,NA
+Montréal International,False,NA
+"Noah's Ark Labs, Huawei Technologies",True,Huawei
+Obsidian Security,False,NA
+Quora,False,NA
+"Rosetta Analytics, Inc.",False,NA
+SAP,False,NA
+Sberbank of Russia,False,NA
+SigOpt,True,Intel
+Snap Inc.,False,NA
+"Susquehanna International Group, LLP",False,NA
+Swiss Data Science Center,False,NA
+Target,False,NA
+Tudor Investment Corporation,False,NA
+Wave Computing,False,NA
+XPRIZE,False,NA
+Yandex,False,NA
+Cylance,False,NA
+"Petuum, Inc.",False,NA
+Qifei International Development Co. Limited,False,NA
+"Beijing Jingdong Shangke Information Technology Co., Ltd.",False,NA
+"Beijing Baidu Netcom Science Technology Co., Ltd.",False,NA
+ORACLE,True,Oracle
+Tibra Global Services Pty Limited,False,NA
+Uber,False,NA
+AItrics,False,NA
+Bosch Center for Artificial Intelligence,False,NA
+"Recruit Communications Co., Ltd",False,NA
+Western Digital Corporation,False,NA
+Cisco Systems Inc.,False,NA
+Toyota Research Institute,False,NA
+https://www.amazon.jobs/,True,Amazon
+deepmind,True,Alphabet
+fb,True,Meta
+salesforce,False,NA
+ibm,False,NA
+https://http://benevolent.ai//,False,NA
+deshaw,False,NA
+deephi,False,NA
+maluuba,True,Microsoft
+sap,False,NA
+http://www.tri.global/,False,NA
+elementai,False,NA
+mailto:iclr2017.programchairs@gmail.com,False,NA
+toutiao,True,Bytedance
+amazon,True,Amazon
+ebay,False,NA
+grammarly,False,NA
+kpmg,False,NA
+oracle,True,Oracle
+polyai,False,NA
+tulane,False,NA
+capitalone,False,NA
+twosigma,False,NA
+figure_eight,False,NA
+imerit,False,NA
+isinlp,False,NA
+nsf,False,NA
+ccc,False,NA
+IBM Research AI,False,NA
+Intel AI,True,Intel
+Lambda GPU Workstations & Servers,False,NA
+Stradigi AI,False,NA
+"Alipay US, Inc",True,Alibaba
+doc.ai,False,NA
+Google AI,True,Alphabet
+NAVER│LINE,False,NA
+"Uber Technologies, Inc.",False,NA
+Arm,False,NA
+BioMind,False,NA
+"Capital One Services, LLC",False,NA
+"Insilico Medicine, Inc.",False,NA
+"Inspur Electronic Information Industry Co.,  Ltd",False,NA
+ISEE AI,False,NA
+IVADO,False,NA
+Jane Street,False,NA
+J.P.  Morgan,False,NA
+Lyft,False,NA
+MathWorks,False,NA
+Morgan Stanley,False,NA
+NAVER LABS Europe,False,NA
+NextAI / NEXT Canada,False,NA
+Pony.ai,False,NA
+Samsung,True,Samsung
+SAS Institute Inc.,False,NA
+Sberbank,False,NA
+SPORTLOGiQ,False,NA
+Twenty Billion Neurons,False,NA
+Twitter Inc,False,NA
+Unity Technologies,False,NA
+V7,False,NA
+Wayfair,False,NA
+Yandex LLC,False,NA
+AITRICS,False,NA
+Aptiv,False,NA
+Argo AI,False,NA
+Ascent_Robotics,False,NA
+Bridgestone Corporation,False,NA
+Edgestream Partners LP,False,NA
+Enigma,False,NA
+Expedia,False,NA
+Freenome Holdings Inc,False,NA
+GHELIA Inc.,False,NA
+Groq,False,NA
+GSA Capital Services Limited,False,NA
+Habana  Labs,True,Intel
+Hearst,False,NA
+HSBC,False,NA
+Inception Institute of Artificial Intelligence Ltd,False,NA
+IVADO LABS,False,NA
+Knight Foundation,False,NA
+"Lab41, an In-Q-Tel Lab",False,NA
+Lionbridge,False,NA
+Naspers,False,NA
+NetEase Fuxi Lab,False,NA
+"Ouster, Inc.",False,NA
+ParallelM,False,NA
+Paris Region Entreprises,False,NA
+Pryon,False,NA
+Pupil Labs,False,NA
+QIHOO 360,False,NA
+Quadrature Capital,False,NA
+Roadstar.ai LLC,False,NA
+SCALE AI,False,NA
+SenseTime Group Limited,False,NA
+"Siemens Medical Solutions USA, Inc.",False,NA
+SK Telecom,False,NA
+SoundHound Inc.,False,NA
+Squarepoint,False,NA
+Squirrel AI Learning,False,NA
+Verisk,False,NA
+Waymo,True,Alphabet
+Westbourne Partners,False,NA
+xBrain,False,NA
+MIT Press,False,NA
+now publishers,False,NA
+Springer Nature,False,NA
+Intuit,False,NA
+Ant Financial,False,NA
+Talent Montréal,False,NA
+American International Group (AIG),False,NA
+Criteo Research,False,NA
+Insilico Medicine,False,NA
+J.P. Morgan,False,NA
+NAVER LABS,False,NA
+Peltarion,False,NA
+SBERBANK,False,NA
+SEED Electronic Arts,False,NA
+Spotify,False,NA
+Wadhwani Institute for Artificial Intelligence,False,NA
+Wecash Holding Limited Company,False,NA
+Inception Institute of Artificial Intelligence,False,NA
+Western Digital,False,NA
+Asapp,False,NA
+Thomson Reuters,False,NA
+Megagon Labs,False,NA
+ByteDance,True,Bytedance
+Vanguard,False,NA
+Duolingo,False,NA
+Interactions,False,NA
+ETS,False,NA
+Raytheon,False,NA
+USC Information Sciences Institute,False,NA
+Clinc,False,NA
+Capital Group,False,NA
+Microsoft Translator,True,Microsoft
+Anthem.ai,False,NA
+Citadel & Citadel Securities,False,NA
+Doc.ai,False,NA
+Lambda,False,NA
+OpenAI,True,OpenAI
+BAIDU,False,NA
+Cerebras Systems,False,NA
+Cruise,False,NA
+DiDi,False,NA
+EY,False,NA
+"Google X, The Moonshot Factory",True,Alphabet
+Habana Labs,True,Intel
+"Inspur Electronic Information Industry Co.,Ltd",False,NA
+National Security Agency,False,NA
+NAVER,False,NA
+Sportlogiq,False,NA
+Twitter Inc.,False,NA
+XPRIZE Foundation,False,NA
+Yokogawa Electric Corporation,False,NA
+Cisco Systems,False,NA
+Horizon Robotics,False,NA
+Mipsology,False,NA
+Neural Magic,False,NA
+Novartis,False,NA
+Petuum Inc.,False,NA
+Point72 / Cubist Systematic Strategies,False,NA
+PROWLER.io,False,NA
+Scale AI,False,NA
+Splunk Inc,False,NA
+VinAI Research,False,NA
+Weights & Biases,False,NA
+XTX Markets,False,NA
+Zillow,False,NA
+ACCENTURE,False,NA
+Alegion,False,NA
+Arm Inc.,False,NA
+Avira,False,NA
+BlackBerry Cylance,False,NA
+Booz Allen Hamilton,False,NA
+"Edgestream Partners, L.P.",False,NA
+Expedia Group,False,NA
+Happy Elements Inc.,False,NA
+Johnson & Johnson,False,NA
+Khosla Ventures,False,NA
+"Moqi Technology (Beijing) Co., Ltd.",False,NA
+OOO Sentium,False,NA
+TerraQuanta,False,NA
+Vectra AI,False,NA
+WalmartLabs,False,NA
+Grameen Research,False,NA
+Lab41,False,NA
+Simon Fraser University,False,NA
+Amazon.com,True,Amazon
+Samsung Electronics,True,Samsung
+Criteo AI Lab,False,NA
+IMC Trading,False,NA
+"Insilico Medicine, Inc",False,NA
+Ouster,False,NA
+Quantumblack,False,NA
+Sberbank AI,False,NA
+SK hynix,False,NA
+Tesla,True,Tesla
+Visual Computing Center at KAUST,False,NA
+Wolfram,False,NA
+Credit Suisse,False,NA
+"Cylance, Inc.",False,NA
+"Expedia, Inc.",False,NA
+VINTECH Technology Development Joint Stock Company,False,NA
+XTX Markets Limited,False,NA
+Zillow Group,False,NA
+Frontiers,False,NA
+/static/images/DeepMind-EthicsAndSociety-Standard-Logo-171003-r01.png,True,Alphabet
+/static/images/Google_Logo_Color_836x272px.png,True,Alphabet
+/static/images/Microsoft-logo_rgb_c-gray-cropped.png,True,Microsoft
+/static/images/Spotify_Logo_RGB_Green.png,False,NA
+/static/images/brand logos twitter bird blue.png,False,NA
+Bloomberg Engineering,False,NA
+Facebook AI,True,Meta
+Google Research,True,Alphabet
+"Huawei Technologies Co., Ltd.",True,Huawei
+IARAI,False,NA
+IBM Corporation,False,NA
+Mayo Clinic Center for Individualized Medicine,False,NA
+"OpenAI, L.P",True,OpenAI
+Sony Corporation,False,NA
+Tenstorrent Inc.,False,NA
+Tower Research Capital,False,NA
+U.S. Bank National Association,False,NA
+Capgemini,False,NA
+Citadel and Citadel Securities,False,NA
+Deci,False,NA
+Electric Power Research Institute,False,NA
+EnsoData,False,NA
+Helm.ai,False,NA
+Kuaishou,False,NA
+MDA,False,NA
+Netflix Research,False,NA
+Point72,False,NA
+Research in Germany,False,NA
+Sber AI,False,NA
+Squarepoint Capital LLP,False,NA
+Zalando,False,NA
+Ant Group,True,Alibaba
+causaLens,False,NA
+maadaa.ai,False,NA
+Ralph,False,NA
+Secondmind,False,NA
+Zeta Alpha,False,NA
+now Publishers,False,NA
+"Huawei Technologies Co., Ltd",True,Huawei
+IBM,False,NA
+AstraZeneca,False,NA
+"Hitachi, Ltd.",False,NA
+Hudson River Trading  LLC,False,NA
+National Security Agency (NSA),False,NA
+"Samsung - SAIT AI Lab, Montreal",True,Samsung
+Autodesk,False,NA
+Yahoo Research,False,NA
+https://deepmind.com/applied/deepmind-ethics-society/,True,Alphabet
+https://research.fb.com/,True,Meta
+/static/images/facebook-research.png,True,Meta
+https://www.google.com/about/,True,Alphabet
+https://sloan.org/,False,NA
+/static/images/Logo-2F-SMALL-Black.png,False,NA
+https://about.twitter.com/en_us/company.html,False,NA
+https://www.research.ibm.com/,False,NA
+/static/images/IBM-Research_transparent.png,False,NA
+https://luminate.io/,False,NA
+/static/images/Luminate_logo_primary_strapline_BLACK_RGB-cropped.png,False,NA
+Megagon,False,NA
+Babelscape,False,NA
+Human Language Technology Center of Excellence,False,NA
+LegalForce,False,NA
+Institute of Advanced Research in Artificial Intelligence,False,NA
+Bloomberg L.P.,False,NA
+Boltzbit,False,NA
+Samsung SAIL Montreal,True,Samsung
+Toloka,False,NA
+"Graviti Technologies, Inc.",False,NA
+Rora,False,NA
+ServiceNow,False,NA
+Squarepoint Capital,False,NA
+Tower Research Capital LLC,False,NA
+XTX Markets Technologies Ltd,False,NA
+DeepMind DEI,True,Alphabet
+Citadel And Citadel Securities,False,NA
+Ralph DEI,False,NA
+The D. E. Shaw Group DEI,False,NA
+Two Sigma DEI,False,NA
+Intel Inc.,True,Intel
+Sea Limited,False,NA
+AbSci,False,NA
+The Home Depot,False,NA
+Gretel,False,NA
+LivePerson,False,NA
+Meta,True,Meta
+Kensho,False,NA
+Reveal Data,False,NA
+Relativity,False,NA
+TIAA,False,NA
+Cohere.ai,False,NA
+ASAPP,False,NA
+Magic Data,False,NA
+LinkedIn,True,Microsoft
+Rakuten,False,NA
+UC Santa Cruz,False,NA
+aiXplain,False,NA
+Activeloop,False,NA
+Amazon Science,True,Amazon
+Citadel Enterprise Americas LLS,False,NA
+DeepMind Technologies LTD,True,Alphabet
+Google LLC,True,Alphabet
+"Lambda, Inc.",False,NA
+LG AI Research,False,NA
+"Meta Platforms, Inc.",True,Meta
+Bloomberg LP,False,NA
+"Capital One Services, LLC.",False,NA
+Cohere,False,NA
+King Abdullah University of Science and Technology,False,NA
+Lightning AI,False,NA
+Optum Labs,False,NA
+TikTok,True,Bytedance
+"Weights and Biases, Inc.",False,NA
+Bosch AI,False,NA
+Datumo,False,NA
+Generally Intelligent,False,NA
+HPC-AI Technology LLC,False,NA
+IEEE SA,False,NA
+Jasper AI,False,NA
+MosaicML,True,Databricks
+NEC Laboratories America,False,NA
+OmniML Inc.,False,NA
+Owkin,False,NA
+Pachyderm,False,NA
+SandboxAQ,False,NA
+Toloka AI,True,Alibaba
+Yahoo!,False,NA
+Yokogawa Digital Corporation,False,NA
+Balyasny Asset Management,False,NA
+Gensyn,False,NA
+Hewlett Packard Enterprise,False,NA
+Manteio Capital,False,NA
+"QuantumBlack, AI by McKinsey",False,NA
+Relation Therapeutics,False,NA
+The Vector Institute,False,NA
+"Intelligent Computing, a Science Partner Journal",False,NA
+Princeton University Press,False,NA
+Society for Industrial & Applied Mathematics,False,NA
+DeepMind Technologies Ltd,True,Alphabet
+Citadel | Citadel Securities,False,NA
+Microsoft Corporation,True,Microsoft
+Absci,False,NA
+Bosch,False,NA
+Micron,False,NA
+NETFLIX,False,NA
+Xyla,False,NA
+Boltzbit Limited,False,NA
+Intel Corp,True,Intel
+Mohamed Bin Zayed University of Artificial Intelligence,False,NA
+Roblox,False,NA
+Google Research DEI,True,Alphabet
+Meta AI,True,Meta
+Sea AI Lab,False,NA
+NAVER Corp.,False,NA
+Tencent ARC Lab,True,Tencent
+Citadel|Citadel Securities,False,NA
+/static/images/DM_CMYK_Logo_Blue400@1x.jpg,True,Alphabet
+https://ai.sony/,False,NA
+/static/images/Sony.png,False,NA
+http://www.navercorp.com/en,False,NA
+/static/images/NAVER_CI_Green.png,False,NA
+https://www.lgresearch.ai/,False,NA
+/static/images/LG_AI_Research.png,False,NA
+Google DeepMind,True,Alphabet
+Advanced Micro Devices (AMD),False,NA
+Databricks,False,NA
+Eqvilent,False,NA
+Intel Corporate,True,Intel
+"Netflix, Inc.",False,NA
+Positron,False,NA
+Voxel51,False,NA
+Weights and Biases,False,NA
+Alibaba Cloud,True,Alibaba
+Comet ML,False,NA
+D. E. Shaw Research,False,NA
+fireworks.ai,False,NA
+Flagship Pioneering,False,NA
+Nexusflow,False,NA
+Nomic AI,False,NA
+Perplexity AI,False,NA
+Tianqiao and Chrissy Chen Institute,False,NA
+TOLOKA AI,False,NA
+Computing Research Association,False,NA
+Determined AI,False,NA
+FEDML,False,NA
+FriendliAI,False,NA
+Imbue,False,NA
+Kolena,False,NA
+Mila - Montréal,False,NA
+National Reconnaissance Office,False,NA
+NEC Laboratories,False,NA
+SqueezeBits,False,NA
+SuperAnnotate,False,NA
+"The Regents of the University of California, San Diego/ NSF-ACCESS",False,NA
+Together,False,NA
+"UKRI Centre AI for Healthcare, Imperial College London",False,NA
+VAST Data,False,NA
+"Vocareum, Inc.",False,NA
+Zhipu,False,NA
+Celonis,False,NA
+MultiOn,False,NA
+Vector Institute,False,NA
+Zoox,True,Amazon
+KeAi Publishing,False,NA
+SIAM,False,NA
+Translated Srl,False,NA
+Colossal-AI,False,NA
+Crusoe Cloud,False,NA
+DVC,False,NA
+FedML,False,NA
+KAUST,False,NA
+"PDT Partners, LLC",False,NA
+TikTok Inc.,True,Bytedance
+QuantCo,False,NA
+Recursion,False,NA
+Tianqiao & Chrissy Chen Institute,False,NA
+"CoCalc by SageMath, Inc.",False,NA
+Black in AI,False,NA
+"Research, a Science Partner Journal",False,NA
+https://www.luminategroup.com/,False,NA
+/static/images/2023_Luminate.png,False,NA
+https://www.deepmind.com/,True,Alphabet
+/static/images/2023_deepmind.png,True,Alphabet
+https://machinelearning.apple.com/,True,Apple
+/static/images/2023_apple.png,True,Apple
+https://www.microsoft.com/en-us/research/,True,Microsoft
+/static/images/2023_Microsoft.png,True,Microsoft
+Otter.ai,False,NA
+JPMorgan,False,NA
+HPC-AI.COM,False,NA
+IREN,False,NA
+Nebius,False,NA
+QUALCOMM,False,NA
+Abu Dhabi Investment Authority (ADIA),False,NA
+Advanced Micro Devices,False,NA
+Akash Network by Overclock Labs,False,NA
+Bittensor,False,NA
+Crusoe Energy,False,NA
+Encord,False,NA
+neptune.ai,False,NA
+Recogni,False,NA
+Shopify Inc,False,NA
+Snowflake Computing Canada ULC,False,NA
+Turing,False,NA
+Writer,False,NA
+Ahrefs,False,NA
+Chan Zuckerberg Initiative,False,NA
+Cloudflare,False,NA
+Comet,False,NA
+DatologyAI,False,NA
+d-Matrix,False,NA
+Emergence AI,False,NA
+Genesis Therapeutics,False,NA
+Gridmatic,False,NA
+GSK.ai,False,NA
+Labelbox,False,NA
+Mistral AI,False,NA
+Nutanix,False,NA
+NXAI,False,NA
+Together AI,False,NA
+Twelve Labs,False,NA
+WaveForms AI,False,NA
+Wayve,False,NA
+WorldQuant LLC,False,NA
+上海明汯投资管理有限公司,False,NA
+Anaconda,False,NA
+Booster Robotics,False,NA
+DataForce,False,NA
+DATAOCEAN AI,False,NA
+DiffuseDrive,False,NA
+DRW,False,NA
+ELLIS Institute Tübingen,False,NA
+Exa,False,NA
+Figma,False,NA
+Gatik AI,False,NA
+HUAWEI,True,Huawei
+"INSAIT – Institute for Computer Science, AI & Technology",False,NA
+Iris.ai,False,NA
+Kaggle,True,Alphabet
+"Linkerbot Beijing Technology Co., Ltd.",False,NA
+Liquid AI,False,NA
+Matic Robots,False,NA
+Mila - Quebec Artificial Intelligence Institut,False,NA
+RBC Borealis,False,NA
+RunPod,False,NA
+SambaNova Systems,False,NA
+Spellbrush,False,NA
+"SuperAnnotate AI, Inc",False,NA
+Thomson Reuters Labs,False,NA
+Unitree Robotics,False,NA
+Virtue AI,False,NA
+Virtu Financial,False,NA
+Woven by Toyota,False,NA
+Basis Research Institute,False,NA
+Cognizant,False,NA
+Commonwealth Bank of Australia,False,NA
+NatWest Group,False,NA
+Susquehanna International Group,False,NA
+"CoCalc by Sagemath, Inc.",False,NA
+Skim AI,False,NA
+Translated,False,NA
+Google Deepmind,True,Alphabet
+Nebius AI,False,NA
+Netflix Inc,False,NA
+Robinhood,False,NA
+Snowflake Poland Sp. z o.o.,False,NA
+Squarepoint-Capital,False,NA
+CoCalc,False,NA
+"Health Science Data, a Science Partner Journal",False,NA
+Meituan,False,NA
+KAUST AI Initiative AI Main Navigation,False,NA
+Ant Research,True,Alibaba
+Cognition,False,NA
+Cognizant AI Labs,False,NA
+Etched,False,NA
+Sony AI,False,NA
+Sony AI DEI Fund,False,NA
+https://survivalandflourishing.fund,False,NA
+/static/images/2024_saf.png,False,NA
+https://aws.amazon.com/machine-learning/responsible-machine-learning/,True,Amazon
+/static/images/2023_amazon.png,True,Amazon
+/static/images/2024_googledeepmind.png,True,Alphabet
+Biohub,False,NA
+Cloud Native Computing Foundation/PyTorch Foundation,False,NA
+Cogs & Marvel,False,NA
+General Motors,False,NA
+Handshake AI,False,NA
+Lightwheel Limited,False,NA
+MBZUAI - Institute of Foundation Models,False,NA
+Ollama,False,NA
+poolside,False,NA
+Qualcomm AI Research,False,NA
+Reflection,False,NA
+Renaissance Philanthropy,False,NA
+Shopify,False,NA
+Abu Dhabi Investment Authority,False,NA
+Emmi AI,False,NA
+IMC,False,NA
+Invisible Technologies,False,NA
+JetBrains,False,NA
+Revelo,False,NA
+Snowflake,False,NA
+SoundPatrol,False,NA
+TD Bank Group - Layer6 AI,False,NA
+Wells Fargo,False,NA
+WRITER,False,NA
+Appen,False,NA
+Atlassian,False,NA
+BlackRock Systematic,False,NA
+Cartesia AI,False,NA
+Datacurve AI,False,NA
+Datadog,False,NA
+Distyl AI,False,NA
+Figma Inc.,False,NA
+Fundamental Technologies Inc.,False,NA
+Genesis Molecular AI,False,NA
+JoinQuant,False,NA
+KUAISHOU,False,NA
+Lighthouse,False,NA
+Lightly,False,NA
+Mila - Quebec AI Institute,False,NA
+Pydantic,False,NA
+Qube Research and Technologies,False,NA
+Runpod,False,NA
+Taobao and Tmall Group,True,Alibaba
+TELUS Digital,False,NA
+Upwork,False,NA
+Voloridge Investment Management,False,NA
+Voltage Park,False,NA
+Boson AI,False,NA
+Centific,False,NA
+Dandy,False,NA
+DataoceanAI,False,NA
+Deccan AI,False,NA
+Firstsource,False,NA
+Flow Traders,False,NA
+FuriosaAI,False,NA
+Ideogram AI,False,NA
+io.net,False,NA
+MATS Research,False,NA
+Meter,False,NA
+Mirage,False,NA
+Modal,False,NA
+"NTT, Inc.",False,NA
+Pruna AI,False,NA
+Simular,False,NA
+SPOC Biosciences,False,NA
+Toloka AI Inc.,False,NA
+Abaka AI,False,NA
+Astrus,False,NA
+Bagel Labs,False,NA
+Clarifai,False,NA
+Conway,False,NA
+Deep Genomics Inc.,False,NA
+Lenovo,False,NA
+NEC,False,NA
+Sanctuary AI,False,NA
+"Scaled Cognition, Inc.",False,NA
+SonicJobs,False,NA
+Uber AI Solutions,False,NA
+Association for Computing Machinery,False,NA
+Intelligent Computing,False,NA
+IOP Publishing,False,NA
+GBM,False,NA
+Hudson River Trading LLC,False,NA
+Akash Network,False,NA
+Cartesia,False,NA
+Netflix Inc.,False,NA
+Vast.ai,False,NA
+Artificial Intelligence Talent Agency,False,NA
+Bagel,False,NA
+Cognizant Al Lab,False,NA
+Trexquant Investment LP,False,NA
+北京聚宽投资管理有限公司（北京JoinQuant投资管理有限公司）,False,NA
+"Health Data Science, a Science Partner Journal",False,NA
+MDPI,False,NA
+INFOCOMM Media Development Authority,False,NA
+AMAZON,True,Amazon
+Aleph Alpha,False,NA
+Commonwealth Bank,False,NA
+SEA,False,NA
+Upwork Inc.,False,NA
+宽德投资WizardQuant,False,NA
+Atmanity Inc.,False,NA
+"Booster Robotics Technology Co., Ltd",False,NA
+HeyGen,False,NA
+Liquid,False,NA
+OneSource Cloud,False,NA
+Orby AI,False,NA
+TESOLLO INC.,False,NA
+Typhoon l SCB 10X,False,NA
+Zhongguancun Academy,False,NA
+Adobe Inc.,False,NA
+Arc Institute,False,NA
+Shanghai Artificial Intelligence Laboratory,False,NA
+Temasek,False,NA
+Science Partner Journals,False,NA
+Apple Inc. DEI,True,Apple
+https://archimedesai.gr/en/,False,NA
+https://www.athenarc.gr/en/home,False,NA
+/static/images/2025_archimedes.png,False,NA
+/static/images/2025_athena.jpg,False,NA
+https://svcf.org/,False,NA
+/static/images/2025logo/Amazon-logo.png,True,Amazon
+/static/images/2025logo/google-deep-mind-logo.jpg,True,Alphabet
+/static/images/2025logo/SVCF-Logo.png,False,NA
+https://ai.meta.com/research/,True,Meta
+https://openai.com,True,OpenAI
+https://www.schmidtsciences.org/,False,NA
+https://www.tiktok.com/safety/en/,True,Bytedance
+https://www.microsoft.com/en-us/,True,Microsoft
+/static/images/2025logo/Meta_Logo.png,True,Meta
+/static/images/2025logo/OpenAI-Logo.png,True,OpenAI
+/static/images/2025logo/Schmidtsciences-logo.png,False,NA
+/static/images/2025logo/TIKTOK_PRIMARY_LOGO_BLACK.png,True,Bytedance
+/static/images/2025logo/Microsoft.png,True,Microsoft
+https://rc-trust.ai/,False,NA
+/static/images/2025logo/Sony_AI_Logo.png,False,NA
+/static/images/2025logo/RCTS.png,False,NA

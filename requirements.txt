@@ -1,0 +1,20 @@
+# Versions below are pinned to the ones this project was last run with.
+
+# data manipulation and analysis
+pandas==2.3.3
+
+# web scraping
+requests==2.32.5
+beautifulsoup4==4.14.3
+aiohttp==3.13.3
+
+# FAccT BibTeX parsing (pinned to <2; the v2 API drops bibtexparser.load())
+bibtexparser>=1.4,<2
+
+# ICLR paper scraping
+openreview-py==1.54.6
+
+# paper classifier
+openai==2.15.0
+tiktoken==0.12.0
+python-dotenv==1.2.1

@@ -1,0 +1,34 @@
+{
+    "classify": {
+        "col_name": "safety",
+        "prompt": "Determine if this paper is AI safety research per this definition:\n AI safety is a multidisciplinary field of research and practice dedicated to minimizing risks by ensuring that AI systems work reliably, securely, transparently, and with minimal adverse side effects when deployed.\n Output: TRUE or FALSE only."
+    },
+    "stage_1": {
+        "col_name": "planning_design",
+        "prompt": "Determine if this paper primarily focuses on the planning and design stage of AI systems.\n This includes problem framing, defining objectives, specifying values, selecting model architectures, or evaluating whether AI can achieve the intended solution.\n Examples include discussions of alignment objectives, or system design choices prior to training.\n Output: TRUE or FALSE only."
+    },
+    "stage_2": {
+        "col_name": "data_collection",
+        "prompt": "Determine if this paper primarily focuses on data collection and processing in AI systems.\n This includes dataset documentation, data labeling, bias in datasets, privacy concerns, data governance, or data poisoning risks.\n Output: TRUE or FALSE only."
+    },
+    "stage_3": {
+        "col_name": "model_training",
+        "prompt": "Determine if this paper primarily focuses on the model training stage.\n This includes training methods such as reinforcement learning with human feedback (RLHF), alignment training, robustness training, optimization techniques, or reward modeling.\n Output: TRUE or FALSE only."
+    },
+    "stage_4": {
+        "col_name": "model_eval",
+        "prompt": "Determine if this paper primarily focuses on model evaluation and testing.\n This includes red-teaming, adversarial testing, safety benchmarks, robustness evaluation, or AI assurance methods.\n Output: TRUE or FALSE only."
+    },
+    "stage_5": {
+        "col_name": "application_integration",
+        "prompt": "Determine if this paper primarily focuses on deployment or application-level integration of AI systems.\n This includes system integration, human-AI interaction, access controls, scalability, or real-world system constraints.\n Output: TRUE or FALSE only."
+    },
+    "stage_6": {
+        "col_name": "monitoring_oversight",
+        "prompt": "Determine if this paper primarily focuses on post-deployment monitoring and oversight.\n This includes auditing, incident detection, governance mechanisms, compliance, model monitoring, or real-world feedback loops.\n Output: TRUE or FALSE only."
+    },
+    "stage_7": {
+        "col_name": "general",
+        "prompt": "Determine if this paper focuses on AI safety topics that do not primarily correspond to any specific stage of the AI lifecycle (planning/design, data collection, training, evaluation, deployment/integration, or monitoring/oversight).\n This includes theoretical or philosophical discussions of AI risk or safety, literature reviews spanning multiple stages, or general research on AI impacts without technical focus.\n Output: TRUE or FALSE only."
+    }
+}

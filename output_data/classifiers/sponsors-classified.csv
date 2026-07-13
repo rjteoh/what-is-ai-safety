@@ -1,0 +1,1883 @@
+sponsor,tier,year,conference,is_bigtech,canonical_name
+bloomberg,platinum sponsors,2015,naacl,False,NA
+google,gold sponsors,2015,naacl,True,alphabet
+goldman-sachs,gold sponsors,2015,naacl,False,NA
+a9,gold sponsors,2015,naacl,True,amazon
+ibm-watson,gold sponsors,2015,naacl,False,NA
+microsoft,gold sponsors,2015,naacl,True,microsoft
+isi,silver sponsors,2015,naacl,False,NA
+nuance,silver sponsors,2015,naacl,False,NA
+sdl,silver sponsors,2015,naacl,False,NA
+yahoo-labs,bronze sponsors,2015,naacl,False,NA
+interactions,bronze sponsors,2015,naacl,False,NA
+uwashington,bronze sponsors,2015,naacl,False,NA
+digital-roots,bronze sponsors,2015,naacl,False,NA
+voicebox,bronze sponsors,2015,naacl,False,NA
+machinezone,bronze sponsors,2015,naacl,False,NA
+baobab,bronze sponsors,2015,naacl,False,NA
+"google, inc.",platinum,2015,neurips,True,alphabet
+microsoft,platinum,2015,neurips,True,microsoft
+"taobao (china) software co., ltd.",platinum,2015,neurips,True,alibaba
+amazon,gold,2015,neurips,True,amazon
+apple inc.,gold,2015,neurips,True,apple
+baidu usa,gold,2015,neurips,False,NA
+citadel llc,gold,2015,neurips,False,NA
+facebook,gold,2015,neurips,True,meta
+ibm research,gold,2015,neurips,False,NA
+ketchum trading,gold,2015,neurips,False,NA
+nvidia,gold,2015,neurips,True,nvidia
+the voleon group,gold,2015,neurips,False,NA
+twitter,gold,2015,neurips,False,NA
+"adobe systems, inc",silver,2015,neurips,False,NA
+adroll,silver,2015,neurips,False,NA
+analog devices | lyric labs,silver,2015,neurips,False,NA
+artificial intelligence journal (aij),silver,2015,neurips,False,NA
+bloomberg,silver,2015,neurips,False,NA
+centurylink cognilytics,silver,2015,neurips,False,NA
+criteo,silver,2015,neurips,False,NA
+cubist systematic strategies,silver,2015,neurips,False,NA
+deep genomics,silver,2015,neurips,False,NA
+d. e. shaw & co.,silver,2015,neurips,False,NA
+disney research,silver,2015,neurips,False,NA
+"ebay, inc.",silver,2015,neurips,False,NA
+imagia,silver,2015,neurips,False,NA
+maluuba inc.,silver,2015,neurips,True,microsoft
+man ahl,silver,2015,neurips,False,NA
+minds.ai,silver,2015,neurips,False,NA
+netflix,silver,2015,neurips,False,NA
+oracle,silver,2015,neurips,True,oracle
+panasonic,silver,2015,neurips,False,NA
+pdt partners,silver,2015,neurips,False,NA
+sony,silver,2015,neurips,False,NA
+the alan turing institute,silver,2015,neurips,False,NA
+toyota,silver,2015,neurips,False,NA
+two sigma,silver,2015,neurips,False,NA
+united technologies research center,silver,2015,neurips,False,NA
+vatic labs,silver,2015,neurips,False,NA
+winton capital management,silver,2015,neurips,False,NA
+yahoo labs,silver,2015,neurips,False,NA
+cambridge university press,exhibitor,2015,neurips,False,NA
+springer publishing,exhibitor,2015,neurips,False,NA
+the mit press,exhibitor,2015,neurips,False,NA
+alibaba,platinum,2015,icml,True,alibaba
+baidu,platinum,2015,icml,False,NA
+NA,platinum,2015,icml,NA,NA
+nsf1,platinum,2015,icml,False,NA
+amazon_logo_rgb,gold,2015,icml,True,amazon
+logo ca,gold,2015,icml,False,NA
+fb_logo,gold,2015,icml,True,meta
+google,gold,2015,icml,True,alphabet
+inria,gold,2015,icml,False,NA
+intel,gold,2015,icml,True,intel
+mel,gold,2015,icml,False,NA
+mfg_logo_black,gold,2015,icml,False,NA
+msr_logo,gold,2015,icml,True,microsoft
+panasonic,gold,2015,icml,False,NA
+winton logo,gold,2015,icml,False,NA
+adobe_logo_standard,silver,2015,icml,False,NA
+arm_corp_rgb,silver,2015,icml,False,NA
+logo-cristal,silver,2015,icml,False,NA
+criteo,silver,2015,icml,False,NA
+netflix_logo_digital+video,silver,2015,icml,False,NA
+nokia,silver,2015,icml,False,NA
+braincorporation,supporting,2015,icml,False,NA
+dr-logo-red,supporting,2015,icml,False,NA
+dropbox,supporting,2015,icml,False,NA
+fli logo,supporting,2015,icml,False,NA
+gresearch,supporting,2015,icml,False,NA
+logo_region,supporting,2015,icml,False,NA
+grand_logo_numberly_rose_avec_baseline_grise_rvb,supporting,2015,icml,False,NA
+nvidia,supporting,2015,icml,True,nvidia
+springer,supporting,2015,icml,False,NA
+logo_technicolor,supporting,2015,icml,False,NA
+twitter,supporting,2015,icml,False,NA
+uber,supporting,2015,icml,False,NA
+ulille,supporting,2015,icml,False,NA
+all_programmable_lock_up,supporting,2015,icml,False,NA
+yahoolabs,supporting,2015,icml,False,NA
+yandex_eng_logo,supporting,2015,icml,False,NA
+google,gold,2015,iclr,True,alphabet
+facebook,gold,2015,iclr,True,meta
+qualcomm,gold,2015,iclr,False,NA
+baidu,gold,2015,iclr,False,NA
+http://bit.ly/ibmwatsonjobs,gold,2015,iclr,False,NA
+developer.nvidia,silver,2015,iclr,True,nvidia
+http://loop.ai,silver,2015,iclr,False,NA
+lib/exe/detail.php%3fid=iclr2015:main&media=iclr2015:necla-logo.jpg.html,bronze,2015,iclr,False,NA
+imagia,bronze,2015,iclr,False,NA
+google,platinum,2016,naacl,True,alphabet
+baidu,platinum,2016,naacl,False,NA
+bloomberg,gold,2016,naacl,False,NA
+amazon,gold,2016,naacl,True,amazon
+microsoft,gold,2016,naacl,True,microsoft
+maluuba,gold,2016,naacl,True,microsoft
+ebay,gold,2016,naacl,False,NA
+optum 360,gold,2016,naacl,False,NA
+ibm tj watson research center,gold,2016,naacl,False,NA
+huawei,silver,2016,naacl,True,huawei
+opentable,silver,2016,naacl,False,NA
+facebook,bronze,2016,naacl,True,meta
+newsela,bronze,2016,naacl,False,NA
+grammarly,bronze,2016,naacl,False,NA
+adobe,bronze,2016,naacl,False,NA
+nuance,bronze,2016,naacl,True,microsoft
+civis analytics,bronze,2016,naacl,False,NA
+voicebox,bronze,2016,naacl,False,NA
+brandeis university computational linguistics,bronze,2016,naacl,False,NA
+aig,platinum,2016,neurips,False,NA
+apple,platinum,2016,neurips,True,apple
+"audi of america, inc.",platinum,2016,neurips,False,NA
+citadel,platinum,2016,neurips,False,NA
+dcvc,platinum,2016,neurips,False,NA
+deepmind,platinum,2016,neurips,True,alphabet
+didi chuxing,platinum,2016,neurips,False,NA
+facebook,platinum,2016,neurips,True,meta
+google,platinum,2016,neurips,True,alphabet
+intel corporation,platinum,2016,neurips,True,intel
+kla-tencor,platinum,2016,neurips,False,NA
+microsoft,platinum,2016,neurips,True,microsoft
+tencent,platinum,2016,neurips,True,tencent
+winton,platinum,2016,neurips,False,NA
+adobe research,gold,2016,neurips,False,NA
+alibaba,gold,2016,neurips,True,alibaba
+amazon,gold,2016,neurips,True,amazon
+atlasense,gold,2016,neurips,False,NA
+baidu,gold,2016,neurips,False,NA
+criteo,gold,2016,neurips,False,NA
+ibm research,gold,2016,neurips,False,NA
+nvidia,gold,2016,neurips,True,nvidia
+the voleon group,gold,2016,neurips,False,NA
+360 international development co. ltd.,silver,2016,neurips,False,NA
+automotive safety technologies gmbh,silver,2016,neurips,False,NA
+bloomberg,silver,2016,neurips,False,NA
+"cubist systematic strategies, llc",silver,2016,neurips,False,NA
+ebay,silver,2016,neurips,False,NA
+featurex,silver,2016,neurips,False,NA
+g-research,silver,2016,neurips,False,NA
+"hutchin hill capital, lp",silver,2016,neurips,False,NA
+jump trading,silver,2016,neurips,False,NA
+man ahl,silver,2016,neurips,False,NA
+nextai,silver,2016,neurips,False,NA
+optiver,silver,2016,neurips,False,NA
+qualcomm,silver,2016,neurips,False,NA
+renaissance technologies,silver,2016,neurips,False,NA
+robert bosch gmbh,silver,2016,neurips,False,NA
+rosetta analytics,silver,2016,neurips,False,NA
+sap se,silver,2016,neurips,False,NA
+sentient technologies,silver,2016,neurips,False,NA
+the d. e. shaw group,silver,2016,neurips,False,NA
+"two sigma investments, lp",silver,2016,neurips,False,NA
+united technologies research centre ireland,silver,2016,neurips,False,NA
+beijing institute of big data research,bronze,2016,neurips,False,NA
+benevolentai,bronze,2016,neurips,False,NA
+"cheetah mobile america, inc.",bronze,2016,neurips,False,NA
+datatang technology,bronze,2016,neurips,False,NA
+disney research,bronze,2016,neurips,False,NA
+invenia labs,bronze,2016,neurips,False,NA
+llc yandex,bronze,2016,neurips,False,NA
+maluuba inc.,bronze,2016,neurips,True,microsoft
+nokia,bronze,2016,neurips,False,NA
+oracle,bronze,2016,neurips,True,oracle
+palantir technologies,bronze,2016,neurips,True,palantir
+panasonic,bronze,2016,neurips,False,NA
+pdt partners,bronze,2016,neurips,False,NA
+quantumblack,bronze,2016,neurips,False,NA
+rbc,bronze,2016,neurips,False,NA
+recursion pharmaceuticals,bronze,2016,neurips,False,NA
+schibsted media group,bronze,2016,neurips,False,NA
+"sigopt, inc.",bronze,2016,neurips,False,NA
+telefonca i+d,bronze,2016,neurips,False,NA
+zalando se,bronze,2016,neurips,False,NA
+baidu_research_logo_whitebg,platinum,2016,icml,False,NA
+american,platinum,2016,icml,False,NA
+adobe,gold,2016,icml,False,NA
+ali,gold,2016,icml,True,alibaba
+amazon_logo,gold,2016,icml,True,amazon
+bloomberg,gold,2016,icml,False,NA
+bosch_sl-en_4c_s,gold,2016,icml,False,NA
+cubist,gold,2016,icml,False,NA
+dwave,gold,2016,icml,False,NA
+facebook,gold,2016,icml,True,meta
+google,gold,2016,icml,True,alphabet
+ibmlogo,gold,2016,icml,False,NA
+intel,gold,2016,icml,True,intel
+jump_trading_logo,gold,2016,icml,False,NA
+microsoft,gold,2016,icml,True,microsoft
+netflix,gold,2016,icml,False,NA
+nvlogo_2d,gold,2016,icml,True,nvidia
+pdt,gold,2016,icml,False,NA
+qualcom,gold,2016,icml,False,NA
+salesforce,gold,2016,icml,False,NA
+shift,gold,2016,icml,False,NA
+toyota,gold,2016,icml,False,NA
+uber,gold,2016,icml,False,NA
+voleon,gold,2016,icml,False,NA
+xilinx,gold,2016,icml,False,NA
+acc,silver,2016,icml,False,NA
+ansat,silver,2016,icml,False,NA
+arm_corp_rgb,silver,2016,icml,False,NA
+artinf,silver,2016,icml,False,NA
+cisco,silver,2016,icml,False,NA
+sas,silver,2016,icml,False,NA
+teralytics,silver,2016,icml,False,NA
+twosigma,silver,2016,icml,False,NA
+worldquant,silver,2016,icml,False,NA
+yandex,silver,2016,icml,False,NA
+facebook,platinum,2016,iclr,True,meta
+google,platinum,2016,iclr,True,alphabet
+www-ssl.intel,platinum,2016,iclr,True,intel
+engineering.twitter,platinum,2016,iclr,False,NA
+baidu,gold,2016,iclr,False,NA
+developer.nvidia,gold,2016,iclr,True,nvidia
+https://www.amazon.jobs/en,silver,2016,iclr,True,amazon
+clarifai,silver,2016,iclr,False,NA
+imagia,silver,2016,iclr,False,NA
+recursionpharma,silver,2016,iclr,False,NA
+dwavesys,bronze,2016,iclr,False,NA
+adobe,bronze,2016,iclr,False,NA
+labs.oracle,bronze,2016,iclr,True,oracle
+audi,diamond,2017,neurips,False,NA
+ibm research,diamond,2017,neurips,False,NA
+intel corporation,diamond,2017,neurips,True,intel
+microsoft,diamond,2017,neurips,True,microsoft
+nvidia,diamond,2017,neurips,True,nvidia
+alibaba group,platinum,2017,neurips,True,alibaba
+amazon,platinum,2017,neurips,True,amazon
+apple inc.,platinum,2017,neurips,True,apple
+"beijing baidu netcom science technology co., ltd",platinum,2017,neurips,False,NA
+capital one,platinum,2017,neurips,False,NA
+citadel,platinum,2017,neurips,False,NA
+data collective,platinum,2017,neurips,False,NA
+deepmind,platinum,2017,neurips,True,alphabet
+didi chuxing,platinum,2017,neurips,False,NA
+"facebook, inc",platinum,2017,neurips,True,meta
+google,platinum,2017,neurips,True,alphabet
+graphcore,platinum,2017,neurips,False,NA
+kla -tencor,platinum,2017,neurips,False,NA
+naver | line,platinum,2017,neurips,False,NA
+tencent ai lab,platinum,2017,neurips,True,tencent
+"uber technologies, inc",platinum,2017,neurips,False,NA
+"airbnb, inc.",gold,2017,neurips,False,NA
+borealis ai,gold,2017,neurips,False,NA
+criteo reasearch,gold,2017,neurips,False,NA
+element ai,gold,2017,neurips,False,NA
+jd.com,gold,2017,neurips,False,NA
+mercedes-benz research and development north america,gold,2017,neurips,False,NA
+microsoft research maluuba,gold,2017,neurips,True,microsoft
+netflix,gold,2017,neurips,False,NA
+optiver,gold,2017,neurips,False,NA
+preferred networks,gold,2017,neurips,False,NA
+renaissance technologies llc,gold,2017,neurips,False,NA
+salesforce,gold,2017,neurips,False,NA
+the d. e. shaw group,gold,2017,neurips,False,NA
+the voleon group,gold,2017,neurips,False,NA
+winton group,gold,2017,neurips,False,NA
+adobe research,silver,2017,neurips,False,NA
+aig science,silver,2017,neurips,False,NA
+autox,silver,2017,neurips,False,NA
+benevolentai,silver,2017,neurips,False,NA
+bloomberg,silver,2017,neurips,False,NA
+bytedance inc.,silver,2017,neurips,True,bytedance
+cirrascale cloud services,silver,2017,neurips,False,NA
+cogent labs,silver,2017,neurips,False,NA
+crowdflower,silver,2017,neurips,False,NA
+cubist systematic strategies,silver,2017,neurips,False,NA
+disney research,silver,2017,neurips,False,NA
+"ebay, inc.",silver,2017,neurips,False,NA
+featurex,silver,2017,neurips,False,NA
+g research,silver,2017,neurips,False,NA
+hudson river trading,silver,2017,neurips,False,NA
+invenia labs,silver,2017,neurips,False,NA
+jpmorgan chase & co.,silver,2017,neurips,False,NA
+jump trading,silver,2017,neurips,False,NA
+lambda labs,silver,2017,neurips,False,NA
+man ahl,silver,2017,neurips,False,NA
+montréal international,silver,2017,neurips,False,NA
+"noah's ark labs, huawei technologies",silver,2017,neurips,True,huawei
+obsidian security,silver,2017,neurips,False,NA
+oracle,silver,2017,neurips,True,oracle
+pdt partners,silver,2017,neurips,False,NA
+qualcomm,silver,2017,neurips,False,NA
+quantumblack,silver,2017,neurips,False,NA
+quora,silver,2017,neurips,False,NA
+recursion pharmaceuticals,silver,2017,neurips,False,NA
+"rosetta analytics, inc.",silver,2017,neurips,False,NA
+sap,silver,2017,neurips,False,NA
+sberbank of russia,silver,2017,neurips,False,NA
+sigopt,silver,2017,neurips,True,intel
+snap inc.,silver,2017,neurips,False,NA
+"susquehanna international group, llp",silver,2017,neurips,False,NA
+swiss data science center,silver,2017,neurips,False,NA
+target,silver,2017,neurips,False,NA
+tudor investment corporation,silver,2017,neurips,False,NA
+two sigma,silver,2017,neurips,False,NA
+vatic labs,silver,2017,neurips,False,NA
+wave computing,silver,2017,neurips,False,NA
+xprize,silver,2017,neurips,False,NA
+yandex,silver,2017,neurips,False,NA
+cylance,bronze,2017,neurips,False,NA
+panasonic,bronze,2017,neurips,False,NA
+"petuum, inc.",bronze,2017,neurips,False,NA
+qifei international development co. limited,bronze,2017,neurips,False,NA
+sentient technologies,bronze,2017,neurips,False,NA
+nvidia,diamond,2017,icml,True,nvidia
+amazon,platinum,2017,icml,True,amazon
+"beijing jingdong shangke information technology co., ltd.",platinum,2017,icml,False,NA
+deepmind,platinum,2017,icml,True,alphabet
+facebook,platinum,2017,icml,True,meta
+google,platinum,2017,icml,True,alphabet
+intel,platinum,2017,icml,True,intel
+aig,gold,2017,icml,False,NA
+alibaba,gold,2017,icml,True,alibaba
+"beijing baidu netcom science technology co., ltd.",gold,2017,icml,False,NA
+maluuba,gold,2017,icml,True,microsoft
+microsoft,gold,2017,icml,True,microsoft
+netflix,gold,2017,icml,False,NA
+oracle,gold,2017,icml,True,oracle
+sigopt,gold,2017,icml,True,intel
+tencent ai lab,gold,2017,icml,True,tencent
+tibra global services pty limited,gold,2017,icml,False,NA
+"two sigma investments, lp",gold,2017,icml,False,NA
+uber,gold,2017,icml,False,NA
+yandex,gold,2017,icml,False,NA
+aitrics,silver,2017,icml,False,NA
+bosch center for artificial intelligence,silver,2017,icml,False,NA
+cubist systematic strategies,silver,2017,icml,False,NA
+d. e. shaw & co.,silver,2017,icml,False,NA
+"recruit communications co., ltd",silver,2017,icml,False,NA
+the voleon group,silver,2017,icml,False,NA
+western digital corporation,silver,2017,icml,False,NA
+"adobe systems, inc",bronze,2017,icml,False,NA
+cisco systems inc.,bronze,2017,icml,False,NA
+toyota research institute,bronze,2017,icml,False,NA
+https://www.amazon.jobs/,platinum,2017,iclr,True,amazon
+baidu,platinum,2017,iclr,False,NA
+deepmind,platinum,2017,iclr,True,alphabet
+fb,platinum,2017,iclr,True,meta
+google,platinum,2017,iclr,True,alphabet
+intel,platinum,2017,iclr,True,intel
+nvidia,platinum,2017,iclr,True,nvidia
+salesforce,platinum,2017,iclr,False,NA
+criteo,gold,2017,iclr,False,NA
+ibm,gold,2017,iclr,False,NA
+https://http://benevolent.ai//,silver,2017,iclr,False,NA
+deshaw,silver,2017,iclr,False,NA
+deephi,silver,2017,iclr,False,NA
+maluuba,silver,2017,iclr,True,microsoft
+sap,silver,2017,iclr,False,NA
+http://www.tri.global/,bronze,2017,iclr,False,NA
+elementai,bronze,2017,iclr,False,NA
+yandex,bronze,2017,iclr,False,NA
+mailto:iclr2017.programchairs@gmail.com,bronze,2017,iclr,False,NA
+bloomberg,diamond sponsors,2018,naacl,False,NA
+google,diamond sponsors,2018,naacl,True,alphabet
+toutiao,diamond sponsors,2018,naacl,True,bytedance
+amazon,platinum sponsors,2018,naacl,True,amazon
+facebook,platinum sponsors,2018,naacl,True,meta
+ebay,gold sponsors,2018,naacl,False,NA
+grammarly,gold sponsors,2018,naacl,False,NA
+ibm,gold sponsors,2018,naacl,False,NA
+kpmg,gold sponsors,2018,naacl,False,NA
+oracle,gold sponsors,2018,naacl,True,oracle
+polyai,gold sponsors,2018,naacl,False,NA
+tulane,gold sponsors,2018,naacl,False,NA
+capitalone,gold sponsors,2018,naacl,False,NA
+twosigma,gold sponsors,2018,naacl,False,NA
+nuance,silver sponsors,2018,naacl,False,NA
+figure_eight,silver sponsors,2018,naacl,False,NA
+imerit,bronze sponsors,2018,naacl,False,NA
+isinlp,bronze sponsors,2018,naacl,False,NA
+nsf,bronze sponsors,2018,naacl,False,NA
+ccc,bronze sponsors,2018,naacl,False,NA
+"facebook, inc",diamond,2018,neurips,True,meta
+amazon,diamond,2018,neurips,True,amazon
+element ai,diamond,2018,neurips,False,NA
+graphcore,diamond,2018,neurips,False,NA
+ibm research ai,diamond,2018,neurips,False,NA
+intel ai,diamond,2018,neurips,True,intel
+lambda gpu workstations & servers,diamond,2018,neurips,False,NA
+microsoft,diamond,2018,neurips,True,microsoft
+montréal international,diamond,2018,neurips,False,NA
+nvidia,diamond,2018,neurips,True,nvidia
+salesforce,diamond,2018,neurips,False,NA
+stradigi ai,diamond,2018,neurips,False,NA
+alibaba group,platinum,2018,neurips,True,alibaba
+"alipay us, inc",platinum,2018,neurips,True,alibaba
+apple inc.,platinum,2018,neurips,True,apple
+baidu,platinum,2018,neurips,False,NA
+borealis ai,platinum,2018,neurips,False,NA
+bytedance inc.,platinum,2018,neurips,True,bytedance
+deepmind,platinum,2018,neurips,True,alphabet
+doc.ai,platinum,2018,neurips,False,NA
+google ai,platinum,2018,neurips,True,alphabet
+naver│line,platinum,2018,neurips,False,NA
+qualcomm,platinum,2018,neurips,False,NA
+quantumblack,platinum,2018,neurips,False,NA
+the voleon group,platinum,2018,neurips,False,NA
+"uber technologies, inc.",platinum,2018,neurips,False,NA
+wave computing,platinum,2018,neurips,False,NA
+arm,gold,2018,neurips,False,NA
+benevolentai,gold,2018,neurips,False,NA
+biomind,gold,2018,neurips,False,NA
+bloomberg,gold,2018,neurips,False,NA
+bosch center for artificial intelligence,gold,2018,neurips,False,NA
+"capital one services, llc",gold,2018,neurips,False,NA
+cirrascale cloud services,gold,2018,neurips,False,NA
+cogent labs,gold,2018,neurips,False,NA
+cubist systematic strategies,gold,2018,neurips,False,NA
+disney research,gold,2018,neurips,False,NA
+g-research,gold,2018,neurips,False,NA
+huawei,gold,2018,neurips,True,huawei
+"insilico medicine, inc.",gold,2018,neurips,False,NA
+"inspur electronic information industry co.,  ltd",gold,2018,neurips,False,NA
+invenia labs,gold,2018,neurips,False,NA
+isee ai,gold,2018,neurips,False,NA
+ivado,gold,2018,neurips,False,NA
+jane street,gold,2018,neurips,False,NA
+j.p.  morgan,gold,2018,neurips,False,NA
+jump trading,gold,2018,neurips,False,NA
+lyft,gold,2018,neurips,False,NA
+man ahl,gold,2018,neurips,False,NA
+mathworks,gold,2018,neurips,False,NA
+morgan stanley,gold,2018,neurips,False,NA
+naver labs europe,gold,2018,neurips,False,NA
+netflix,gold,2018,neurips,False,NA
+nextai / next canada,gold,2018,neurips,False,NA
+pdt partners,gold,2018,neurips,False,NA
+pony.ai,gold,2018,neurips,False,NA
+preferred networks,gold,2018,neurips,False,NA
+samsung,gold,2018,neurips,True,samsung
+sas institute inc.,gold,2018,neurips,False,NA
+sberbank,gold,2018,neurips,False,NA
+sportlogiq,gold,2018,neurips,False,NA
+the d. e. shaw group,gold,2018,neurips,False,NA
+twenty billion neurons,gold,2018,neurips,False,NA
+twitter inc,gold,2018,neurips,False,NA
+two sigma,gold,2018,neurips,False,NA
+unity technologies,gold,2018,neurips,False,NA
+v7,gold,2018,neurips,False,NA
+wayfair,gold,2018,neurips,False,NA
+yandex llc,gold,2018,neurips,False,NA
+aitrics,silver,2018,neurips,False,NA
+aptiv,silver,2018,neurips,False,NA
+argo ai,silver,2018,neurips,False,NA
+ascent_robotics,silver,2018,neurips,False,NA
+bridgestone corporation,silver,2018,neurips,False,NA
+didi chuxing,silver,2018,neurips,False,NA
+edgestream partners lp,silver,2018,neurips,False,NA
+enigma,silver,2018,neurips,False,NA
+expedia,silver,2018,neurips,False,NA
+freenome holdings inc,silver,2018,neurips,False,NA
+ghelia inc.,silver,2018,neurips,False,NA
+groq,silver,2018,neurips,False,NA
+gsa capital services limited,silver,2018,neurips,False,NA
+habana  labs,silver,2018,neurips,True,intel
+hearst,silver,2018,neurips,False,NA
+hsbc,silver,2018,neurips,False,NA
+hudson river trading,silver,2018,neurips,False,NA
+imagia,silver,2018,neurips,False,NA
+inception institute of artificial intelligence ltd,silver,2018,neurips,False,NA
+ivado labs,silver,2018,neurips,False,NA
+knight foundation,silver,2018,neurips,False,NA
+"lab41, an in-q-tel lab",silver,2018,neurips,False,NA
+lionbridge,silver,2018,neurips,False,NA
+naspers,silver,2018,neurips,False,NA
+netease fuxi lab,silver,2018,neurips,False,NA
+obsidian security,silver,2018,neurips,False,NA
+"ouster, inc.",silver,2018,neurips,False,NA
+parallelm,silver,2018,neurips,False,NA
+paris region entreprises,silver,2018,neurips,False,NA
+"petuum, inc.",silver,2018,neurips,False,NA
+pryon,silver,2018,neurips,False,NA
+pupil labs,silver,2018,neurips,False,NA
+qihoo 360,silver,2018,neurips,False,NA
+quadrature capital,silver,2018,neurips,False,NA
+roadstar.ai llc,silver,2018,neurips,False,NA
+scale ai,silver,2018,neurips,False,NA
+sensetime group limited,silver,2018,neurips,False,NA
+"siemens medical solutions usa, inc.",silver,2018,neurips,False,NA
+sigopt,silver,2018,neurips,True,intel
+sk telecom,silver,2018,neurips,False,NA
+soundhound inc.,silver,2018,neurips,False,NA
+squarepoint,silver,2018,neurips,False,NA
+squirrel ai learning,silver,2018,neurips,False,NA
+tencent ai lab,silver,2018,neurips,True,tencent
+verisk,silver,2018,neurips,False,NA
+waymo,silver,2018,neurips,True,alphabet
+westbourne partners,silver,2018,neurips,False,NA
+xbrain,silver,2018,neurips,False,NA
+xprize,silver,2018,neurips,False,NA
+cambridge university press,exhibitor,2018,neurips,False,NA
+mit press,exhibitor,2018,neurips,False,NA
+now publishers,exhibitor,2018,neurips,False,NA
+springer nature,exhibitor,2018,neurips,False,NA
+facebook,diamond,2018,icml,True,meta
+intel corporation,diamond,2018,icml,True,intel
+intuit,diamond,2018,icml,False,NA
+nvidia,diamond,2018,icml,True,nvidia
+amazon,platinum,2018,icml,True,amazon
+ant financial,platinum,2018,icml,False,NA
+"beijing baidu netcom science technology co., ltd",platinum,2018,icml,False,NA
+deepmind,platinum,2018,icml,True,alphabet
+google ai,platinum,2018,icml,True,alphabet
+graphcore,platinum,2018,icml,False,NA
+microsoft,platinum,2018,icml,True,microsoft
+talent montréal,platinum,2018,icml,False,NA
+tencent ai lab,platinum,2018,icml,True,tencent
+the voleon group,platinum,2018,icml,False,NA
+adobe,gold,2018,icml,False,NA
+american international group (aig),gold,2018,icml,False,NA
+bosch center for artificial intelligence,gold,2018,icml,False,NA
+criteo research,gold,2018,icml,False,NA
+disney research,gold,2018,icml,False,NA
+element ai,gold,2018,icml,False,NA
+expedia,gold,2018,icml,False,NA
+hudson river trading,gold,2018,icml,False,NA
+ibm research,gold,2018,icml,False,NA
+insilico medicine,gold,2018,icml,False,NA
+j.p. morgan,gold,2018,icml,False,NA
+naver labs,gold,2018,icml,False,NA
+naver│line,gold,2018,icml,False,NA
+netflix,gold,2018,icml,False,NA
+peltarion,gold,2018,icml,False,NA
+qualcomm,gold,2018,icml,False,NA
+quantumblack,gold,2018,icml,False,NA
+sberbank,gold,2018,icml,False,NA
+seed electronic arts,gold,2018,icml,False,NA
+sigopt,gold,2018,icml,True,intel
+sk telecom,gold,2018,icml,False,NA
+spotify,gold,2018,icml,False,NA
+two sigma,gold,2018,icml,False,NA
+"uber technologies, inc.",gold,2018,icml,False,NA
+wadhwani institute for artificial intelligence,gold,2018,icml,False,NA
+wayfair,gold,2018,icml,False,NA
+wecash holding limited company,gold,2018,icml,False,NA
+yandex,gold,2018,icml,False,NA
+inception institute of artificial intelligence,silver,2018,icml,False,NA
+man ahl,silver,2018,icml,False,NA
+the d. e. shaw group,silver,2018,icml,False,NA
+western digital,silver,2018,icml,False,NA
+springer,exhibitor,2018,icml,False,NA
+the mit press,exhibitor,2018,icml,False,NA
+bloomberg,diamond,2019,naacl,False,NA
+google,diamond,2019,naacl,True,alphabet
+facebook,diamond,2019,naacl,True,meta
+amazon,diamond,2019,naacl,True,amazon
+asapp,diamond,2019,naacl,False,NA
+two sigma,platinum,2019,naacl,False,NA
+thomson reuters,platinum,2019,naacl,False,NA
+capital one,platinum,2019,naacl,False,NA
+deepmind,platinum,2019,naacl,True,alphabet
+megagon labs,gold,2019,naacl,False,NA
+bytedance,gold,2019,naacl,True,bytedance
+vanguard,gold,2019,naacl,False,NA
+duolingo,silver,2019,naacl,False,NA
+sap,silver,2019,naacl,False,NA
+ebay,silver,2019,naacl,False,NA
+grammarly,silver,2019,naacl,False,NA
+microsoft,silver,2019,naacl,True,microsoft
+cisco,silver,2019,naacl,False,NA
+interactions,silver,2019,naacl,False,NA
+ets,bronze,2019,naacl,False,NA
+raytheon,bronze,2019,naacl,False,NA
+usc information sciences institute,bronze,2019,naacl,False,NA
+clinc,bronze,2019,naacl,False,NA
+capital group,social event entertainment,2019,naacl,False,NA
+deepmind,diversity & inclusion: champion,2019,naacl,True,alphabet
+google,diversity & inclusion: ally,2019,naacl,True,alphabet
+grammarly,in-kind donations,2019,naacl,False,NA
+microsoft translator,in-kind donations,2019,naacl,True,microsoft
+amazon,diamond,2019,neurips,True,amazon
+anthem.ai,diamond,2019,neurips,False,NA
+apple,diamond,2019,neurips,True,apple
+citadel & citadel securities,diamond,2019,neurips,False,NA
+deepmind,diamond,2019,neurips,True,alphabet
+doc.ai,diamond,2019,neurips,False,NA
+facebook,diamond,2019,neurips,True,meta
+google,diamond,2019,neurips,True,alphabet
+graphcore,diamond,2019,neurips,False,NA
+ibm research ai,diamond,2019,neurips,False,NA
+intel ai,diamond,2019,neurips,True,intel
+lambda,diamond,2019,neurips,False,NA
+lyft,diamond,2019,neurips,False,NA
+microsoft,diamond,2019,neurips,True,microsoft
+openai,diamond,2019,neurips,True,openai
+qualcomm,diamond,2019,neurips,False,NA
+salesforce,diamond,2019,neurips,False,NA
+sony,diamond,2019,neurips,False,NA
+waymo,diamond,2019,neurips,True,alphabet
+alibaba group,platinum,2019,neurips,True,alibaba
+baidu,platinum,2019,neurips,False,NA
+biomind,platinum,2019,neurips,False,NA
+bloomberg,platinum,2019,neurips,False,NA
+borealis ai,platinum,2019,neurips,False,NA
+bosch center for artificial intelligence,platinum,2019,neurips,False,NA
+bytedance,platinum,2019,neurips,True,bytedance
+cerebras systems,platinum,2019,neurips,False,NA
+cruise,platinum,2019,neurips,False,NA
+didi,platinum,2019,neurips,False,NA
+disney research,platinum,2019,neurips,False,NA
+ey,platinum,2019,neurips,False,NA
+"google x, the moonshot factory",platinum,2019,neurips,True,alphabet
+habana labs,platinum,2019,neurips,True,intel
+hudson river trading,platinum,2019,neurips,False,NA
+"inspur electronic information industry co.,ltd",platinum,2019,neurips,False,NA
+invenia labs,platinum,2019,neurips,False,NA
+jane street,platinum,2019,neurips,False,NA
+j.p. morgan,platinum,2019,neurips,False,NA
+jump trading,platinum,2019,neurips,False,NA
+national security agency,platinum,2019,neurips,False,NA
+naver,platinum,2019,neurips,False,NA
+netflix,platinum,2019,neurips,False,NA
+pdt partners,platinum,2019,neurips,False,NA
+quantumblack,platinum,2019,neurips,False,NA
+sigopt,platinum,2019,neurips,True,intel
+sportlogiq,platinum,2019,neurips,False,NA
+the d. e. shaw group,platinum,2019,neurips,False,NA
+the voleon group,platinum,2019,neurips,False,NA
+twitter inc.,platinum,2019,neurips,False,NA
+two sigma,platinum,2019,neurips,False,NA
+"uber technologies, inc.",platinum,2019,neurips,False,NA
+unity technologies,platinum,2019,neurips,False,NA
+xprize foundation,platinum,2019,neurips,False,NA
+yandex,platinum,2019,neurips,False,NA
+yokogawa electric corporation,platinum,2019,neurips,False,NA
+benevolentai,gold,2019,neurips,False,NA
+cisco systems,gold,2019,neurips,False,NA
+g-research,gold,2019,neurips,False,NA
+horizon robotics,gold,2019,neurips,False,NA
+mathworks,gold,2019,neurips,False,NA
+mipsology,gold,2019,neurips,False,NA
+neural magic,gold,2019,neurips,False,NA
+novartis,gold,2019,neurips,False,NA
+petuum inc.,gold,2019,neurips,False,NA
+point72 / cubist systematic strategies,gold,2019,neurips,False,NA
+preferred networks,gold,2019,neurips,False,NA
+prowler.io,gold,2019,neurips,False,NA
+pryon,gold,2019,neurips,False,NA
+sberbank,gold,2019,neurips,False,NA
+scale ai,gold,2019,neurips,False,NA
+snap inc.,gold,2019,neurips,False,NA
+splunk inc,gold,2019,neurips,False,NA
+squarepoint,gold,2019,neurips,False,NA
+vinai research,gold,2019,neurips,False,NA
+weights & biases,gold,2019,neurips,False,NA
+xtx markets,gold,2019,neurips,False,NA
+zillow,gold,2019,neurips,False,NA
+accenture,silver,2019,neurips,False,NA
+alegion,silver,2019,neurips,False,NA
+arm inc.,silver,2019,neurips,False,NA
+avira,silver,2019,neurips,False,NA
+blackberry cylance,silver,2019,neurips,False,NA
+booz allen hamilton,silver,2019,neurips,False,NA
+capital group,silver,2019,neurips,False,NA
+"edgestream partners, l.p.",silver,2019,neurips,False,NA
+element ai,silver,2019,neurips,False,NA
+expedia group,silver,2019,neurips,False,NA
+ghelia inc.,silver,2019,neurips,False,NA
+happy elements inc.,silver,2019,neurips,False,NA
+johnson & johnson,silver,2019,neurips,False,NA
+khosla ventures,silver,2019,neurips,False,NA
+"moqi technology (beijing) co., ltd.",silver,2019,neurips,False,NA
+ooo sentium,silver,2019,neurips,False,NA
+"siemens medical solutions usa, inc.",silver,2019,neurips,False,NA
+tencent ai lab,silver,2019,neurips,True,tencent
+terraquanta,silver,2019,neurips,False,NA
+vectra ai,silver,2019,neurips,False,NA
+walmartlabs,silver,2019,neurips,False,NA
+grameen research,bronze,2019,neurips,False,NA
+lab41,bronze,2019,neurips,False,NA
+nextai / next canada,bronze,2019,neurips,False,NA
+simon fraser university,bronze,2019,neurips,False,NA
+wadhwani institute for artificial intelligence,bronze,2019,neurips,False,NA
+doc.ai,diamond,2019,icml,False,NA
+facebook,diamond,2019,icml,True,meta
+amazon.com,ruby,2019,icml,True,amazon
+apple,sapphire,2019,icml,True,apple
+google,sapphire,2019,icml,True,alphabet
+graphcore,sapphire,2019,icml,False,NA
+"beijing baidu netcom science technology co., ltd",platinum,2019,icml,False,NA
+deepmind,platinum,2019,icml,True,alphabet
+petuum inc.,platinum,2019,icml,False,NA
+bosch center for artificial intelligence,gold,2019,icml,False,NA
+ibm research ai,gold,2019,icml,False,NA
+j.p. morgan,gold,2019,icml,False,NA
+microsoft,gold,2019,icml,True,microsoft
+naver | line,gold,2019,icml,False,NA
+netflix,gold,2019,icml,False,NA
+salesforce,gold,2019,icml,False,NA
+samsung electronics,gold,2019,icml,True,samsung
+the voleon group,gold,2019,icml,False,NA
+uber,gold,2019,icml,False,NA
+alegion,silver,2019,icml,False,NA
+ant financial,silver,2019,icml,False,NA
+bloomberg,silver,2019,icml,False,NA
+capital one,silver,2019,icml,False,NA
+criteo ai lab,silver,2019,icml,False,NA
+disney research,silver,2019,icml,False,NA
+hudson river trading,silver,2019,icml,False,NA
+imc trading,silver,2019,icml,False,NA
+"insilico medicine, inc",silver,2019,icml,False,NA
+"inspur electronic information industry co.,ltd",silver,2019,icml,False,NA
+jane street,silver,2019,icml,False,NA
+lyft,silver,2019,icml,False,NA
+montréal international,silver,2019,icml,False,NA
+national security agency,silver,2019,icml,False,NA
+obsidian security,silver,2019,icml,False,NA
+ouster,silver,2019,icml,False,NA
+point72 / cubist systematic strategies,silver,2019,icml,False,NA
+preferred networks,silver,2019,icml,False,NA
+quantumblack,silver,2019,icml,False,NA
+sberbank ai,silver,2019,icml,False,NA
+scale ai,silver,2019,icml,False,NA
+sigopt,silver,2019,icml,True,intel
+sk hynix,silver,2019,icml,False,NA
+sk telecom,silver,2019,icml,False,NA
+tencent ai lab,silver,2019,icml,True,tencent
+tesla,silver,2019,icml,True,tesla
+the d. e. shaw group,silver,2019,icml,False,NA
+visual computing center at kaust,silver,2019,icml,False,NA
+wayfair,silver,2019,icml,False,NA
+wolfram,silver,2019,icml,False,NA
+yandex,silver,2019,icml,False,NA
+yokogawa electric corporation,silver,2019,icml,False,NA
+credit suisse,bronze,2019,icml,False,NA
+"cylance, inc.",bronze,2019,icml,False,NA
+"expedia, inc.",bronze,2019,icml,False,NA
+intel ai,bronze,2019,icml,True,intel
+squarepoint,bronze,2019,icml,False,NA
+vintech technology development joint stock company,bronze,2019,icml,False,NA
+xtx markets limited,bronze,2019,icml,False,NA
+zillow group,bronze,2019,icml,False,NA
+frontiers,publisher,2019,icml,False,NA
+mit press,publisher,2019,icml,False,NA
+/static/images/deepmind-ethicsandsociety-standard-logo-171003-r01.png,sponsors,2019,facct,True,alphabet
+/static/images/google_logo_color_836x272px.png,sponsors,2019,facct,True,alphabet
+/static/images/microsoft-logo_rgb_c-gray-cropped.png,sponsors,2019,facct,True,microsoft
+/static/images/spotify_logo_rgb_green.png,sponsors,2019,facct,False,NA
+/static/images/brand logos twitter bird blue.png,sponsors,2019,facct,False,NA
+alibaba group,platinum,2020,neurips,True,alibaba
+amazon,platinum,2020,neurips,True,amazon
+apple,platinum,2020,neurips,True,apple
+bloomberg engineering,platinum,2020,neurips,False,NA
+bytedance,platinum,2020,neurips,True,bytedance
+capital one,platinum,2020,neurips,False,NA
+cruise,platinum,2020,neurips,False,NA
+deepmind,platinum,2020,neurips,True,alphabet
+facebook ai,platinum,2020,neurips,True,meta
+google research,platinum,2020,neurips,True,alphabet
+g-research,platinum,2020,neurips,False,NA
+"huawei technologies co., ltd.",platinum,2020,neurips,True,huawei
+iarai,platinum,2020,neurips,False,NA
+ibm corporation,platinum,2020,neurips,False,NA
+mayo clinic center for individualized medicine,platinum,2020,neurips,False,NA
+microsoft,platinum,2020,neurips,True,microsoft
+"openai, l.p",platinum,2020,neurips,True,openai
+pdt partners,platinum,2020,neurips,False,NA
+qualcomm,platinum,2020,neurips,False,NA
+sony corporation,platinum,2020,neurips,False,NA
+tenstorrent inc.,platinum,2020,neurips,False,NA
+tower research capital,platinum,2020,neurips,False,NA
+two sigma,platinum,2020,neurips,False,NA
+u.s. bank national association,platinum,2020,neurips,False,NA
+baidu,gold,2020,neurips,False,NA
+capgemini,gold,2020,neurips,False,NA
+citadel and citadel securities,gold,2020,neurips,False,NA
+deci,gold,2020,neurips,False,NA
+electric power research institute,gold,2020,neurips,False,NA
+ensodata,gold,2020,neurips,False,NA
+graphcore,gold,2020,neurips,False,NA
+helm.ai,gold,2020,neurips,False,NA
+hudson river trading,gold,2020,neurips,False,NA
+kuaishou,gold,2020,neurips,False,NA
+mathworks,gold,2020,neurips,False,NA
+mda,gold,2020,neurips,False,NA
+naver,gold,2020,neurips,False,NA
+netflix research,gold,2020,neurips,False,NA
+neural magic,gold,2020,neurips,False,NA
+point72,gold,2020,neurips,False,NA
+quantumblack,gold,2020,neurips,False,NA
+research in germany,gold,2020,neurips,False,NA
+salesforce,gold,2020,neurips,False,NA
+sber ai,gold,2020,neurips,False,NA
+scale ai,gold,2020,neurips,False,NA
+spotify,gold,2020,neurips,False,NA
+squarepoint capital llp,gold,2020,neurips,False,NA
+the d. e. shaw group,gold,2020,neurips,False,NA
+vinai research,gold,2020,neurips,False,NA
+waymo,gold,2020,neurips,True,alphabet
+yokogawa electric corporation,gold,2020,neurips,False,NA
+zalando,gold,2020,neurips,False,NA
+ant group,silver,2020,neurips,True,alibaba
+arm,silver,2020,neurips,False,NA
+benevolentai,silver,2020,neurips,False,NA
+causalens,silver,2020,neurips,False,NA
+deep genomics,silver,2020,neurips,False,NA
+element ai,silver,2020,neurips,False,NA
+maadaa.ai,silver,2020,neurips,False,NA
+nvidia,silver,2020,neurips,True,nvidia
+ralph,silver,2020,neurips,False,NA
+secondmind,silver,2020,neurips,False,NA
+tencent ai lab,silver,2020,neurips,True,tencent
+uber,silver,2020,neurips,False,NA
+wadhwani institute for artificial intelligence,silver,2020,neurips,False,NA
+xtx markets,silver,2020,neurips,False,NA
+zeta alpha,silver,2020,neurips,False,NA
+cambridge university press,book,2020,neurips,False,NA
+now publishers,book,2020,neurips,False,NA
+the mit press,book,2020,neurips,False,NA
+amazon,platinum,2020,icml,True,amazon
+apple,platinum,2020,icml,True,apple
+deepmind,platinum,2020,icml,True,alphabet
+facebook,platinum,2020,icml,True,meta
+google research,platinum,2020,icml,True,alphabet
+"huawei technologies co., ltd",platinum,2020,icml,True,huawei
+ibm,platinum,2020,icml,False,NA
+two sigma,platinum,2020,icml,False,NA
+astrazeneca,gold,2020,icml,False,NA
+baidu,gold,2020,icml,False,NA
+bloomberg engineering,gold,2020,icml,False,NA
+bosch center for artificial intelligence,gold,2020,icml,False,NA
+bytedance,gold,2020,icml,True,bytedance
+citadel & citadel securities,gold,2020,icml,False,NA
+"hitachi, ltd.",gold,2020,icml,False,NA
+hudson river trading  llc,gold,2020,icml,False,NA
+jane street,gold,2020,icml,False,NA
+microsoft,gold,2020,icml,True,microsoft
+national security agency (nsa),gold,2020,icml,False,NA
+netflix research,gold,2020,icml,False,NA
+qualcomm,gold,2020,icml,False,NA
+"samsung - sait ai lab, montreal",gold,2020,icml,True,samsung
+sberbank,gold,2020,icml,False,NA
+the d. e. shaw group,gold,2020,icml,False,NA
+vinai research,gold,2020,icml,False,NA
+waymo,gold,2020,icml,True,alphabet
+yokogawa electric corporation,gold,2020,icml,False,NA
+ant group,silver,2020,icml,True,alibaba
+autodesk,silver,2020,icml,False,NA
+benevolentai,silver,2020,icml,False,NA
+pdt partners,silver,2020,icml,False,NA
+point72,silver,2020,icml,False,NA
+tencent ai lab,silver,2020,icml,True,tencent
+tower research capital,silver,2020,icml,False,NA
+xtx markets,silver,2020,icml,False,NA
+yahoo research,silver,2020,icml,False,NA
+deepmind,diamond,2020,iclr,True,alphabet
+facebook,diamond,2020,iclr,True,meta
+google,diamond,2020,iclr,True,alphabet
+amazon,gold,2020,iclr,True,amazon
+ibm research,gold,2020,iclr,False,NA
+jane street,gold,2020,iclr,False,NA
+salesforce,gold,2020,iclr,False,NA
+apple,silver,2020,iclr,True,apple
+bytedance,silver,2020,iclr,True,bytedance
+microsoft,silver,2020,iclr,True,microsoft
+lambda,bronze,2020,iclr,False,NA
+the d. e. shaw group,bronze,2020,iclr,False,NA
+two sigma,bronze,2020,iclr,False,NA
+element ai,start-up,2020,iclr,False,NA
+https://deepmind.com/applied/deepmind-ethics-society/,sponsors,2020,facct,True,alphabet
+/static/images/deepmind-ethicsandsociety-standard-logo-171003-r01.png,sponsors,2020,facct,True,alphabet
+https://research.fb.com/,sponsors,2020,facct,True,meta
+/static/images/facebook-research.png,sponsors,2020,facct,True,meta
+https://www.google.com/about/,sponsors,2020,facct,True,alphabet
+/static/images/google_logo_color_836x272px.png,sponsors,2020,facct,True,alphabet
+https://sloan.org/,sponsors,2020,facct,False,NA
+/static/images/logo-2f-small-black.png,sponsors,2020,facct,False,NA
+https://about.twitter.com/en_us/company.html,sponsors,2020,facct,False,NA
+/static/images/brand logos twitter bird blue.png,sponsors,2020,facct,False,NA
+https://www.research.ibm.com/,sponsors,2020,facct,False,NA
+/static/images/ibm-research_transparent.png,sponsors,2020,facct,False,NA
+https://luminate.io/,with ongoing support from,2020,facct,False,NA
+/static/images/luminate_logo_primary_strapline_black_rgb-cropped.png,with ongoing support from,2020,facct,False,NA
+google,diamond,2021,naacl,True,alphabet
+amazon,platinum,2021,naacl,True,amazon
+apple,platinum,2021,naacl,True,apple
+facebook,platinum,2021,naacl,True,meta
+megagon,platinum,2021,naacl,False,NA
+microsoft,platinum,2021,naacl,True,microsoft
+bloomberg,gold,2021,naacl,False,NA
+grammarly,gold,2021,naacl,False,NA
+ibm,gold,2021,naacl,False,NA
+vanguard,gold,2021,naacl,False,NA
+duolingo,silver,2021,naacl,False,NA
+adobe,bronze,2021,naacl,False,NA
+babelscape,bronze,2021,naacl,False,NA
+human language technology center of excellence,bronze,2021,naacl,False,NA
+legalforce,bronze,2021,naacl,False,NA
+google,diversity and inclusion: champion,2021,naacl,True,alphabet
+microsoft,diversity and inclusion: champion,2021,naacl,True,microsoft
+amazon,platinum,2021,icml,True,amazon
+apple,platinum,2021,icml,True,apple
+bytedance,platinum,2021,icml,True,bytedance
+citadel & citadel securities,platinum,2021,icml,False,NA
+deepmind,platinum,2021,icml,True,alphabet
+facebook,platinum,2021,icml,True,meta
+google,platinum,2021,icml,True,alphabet
+institute of advanced research in artificial intelligence,platinum,2021,icml,False,NA
+intel,platinum,2021,icml,True,intel
+invenia labs,platinum,2021,icml,False,NA
+mayo clinic center for individualized medicine,platinum,2021,icml,False,NA
+two sigma,platinum,2021,icml,False,NA
+"beijing baidu netcom science technology co., ltd",gold,2021,icml,False,NA
+bloomberg l.p.,gold,2021,icml,False,NA
+boltzbit,gold,2021,icml,False,NA
+cubist systematic strategies,gold,2021,icml,False,NA
+hudson river trading,gold,2021,icml,False,NA
+ibm research,gold,2021,icml,False,NA
+microsoft,gold,2021,icml,True,microsoft
+netflix research,gold,2021,icml,False,NA
+qualcomm,gold,2021,icml,False,NA
+research in germany,gold,2021,icml,False,NA
+samsung sail montreal,gold,2021,icml,True,samsung
+sber ai,gold,2021,icml,False,NA
+toloka,gold,2021,icml,False,NA
+waymo,gold,2021,icml,True,alphabet
+yokogawa electric corporation,gold,2021,icml,False,NA
+ant group,silver,2021,icml,True,alibaba
+bosch center for artificial intelligence,silver,2021,icml,False,NA
+causalens,silver,2021,icml,False,NA
+"graviti technologies, inc.",silver,2021,icml,False,NA
+rora,silver,2021,icml,False,NA
+servicenow,silver,2021,icml,False,NA
+squarepoint capital,silver,2021,icml,False,NA
+the d. e. shaw group,silver,2021,icml,False,NA
+tower research capital llc,silver,2021,icml,False,NA
+xtx markets technologies ltd,silver,2021,icml,False,NA
+cambridge university press,book,2021,icml,False,NA
+deepmind dei,champion,2021,iclr,True,alphabet
+citadel and citadel securities,leader,2021,iclr,False,NA
+ralph dei,leader,2021,iclr,False,NA
+the d. e. shaw group dei,leader,2021,iclr,False,NA
+two sigma dei,leader,2021,iclr,False,NA
+amazon,platinum,2021,iclr,True,amazon
+bytedance,platinum,2021,iclr,True,bytedance
+deepmind,platinum,2021,iclr,True,alphabet
+facebook,platinum,2021,iclr,True,meta
+google,platinum,2021,iclr,True,alphabet
+intel inc.,platinum,2021,iclr,True,intel
+microsoft,platinum,2021,iclr,True,microsoft
+openai,platinum,2021,iclr,True,openai
+qualcomm,platinum,2021,iclr,False,NA
+apple,gold,2021,iclr,True,apple
+baidu,gold,2021,iclr,False,NA
+ibm research ai,gold,2021,iclr,False,NA
+morgan stanley,gold,2021,iclr,False,NA
+naver,gold,2021,iclr,False,NA
+salesforce,gold,2021,iclr,False,NA
+sea limited,gold,2021,iclr,False,NA
+zeta alpha,gold,2021,iclr,False,NA
+absci,silver,2021,iclr,False,NA
+bloomberg,silver,2021,iclr,False,NA
+bosch center for artificial intelligence,silver,2021,iclr,False,NA
+citadel & citadel securities,silver,2021,iclr,False,NA
+the d. e. shaw group,silver,2021,iclr,False,NA
+the home depot,silver,2021,iclr,False,NA
+two sigma,silver,2021,iclr,False,NA
+gretel,start-up,2021,iclr,False,NA
+ralph,start-up,2021,iclr,False,NA
+google,diamond,2022,naacl,True,alphabet
+amazon,diamond,2022,naacl,True,amazon
+liveperson,diamond,2022,naacl,False,NA
+meta,diamond,2022,naacl,True,meta
+bloomberg,diamond,2022,naacl,False,NA
+apple,platinum,2022,naacl,True,apple
+microsoft,platinum,2022,naacl,True,microsoft
+megagon,platinum,2022,naacl,False,NA
+grammarly,platinum,2022,naacl,False,NA
+bytedance,platinum,2022,naacl,True,bytedance
+kensho,platinum,2022,naacl,False,NA
+reveal data,platinum,2022,naacl,False,NA
+relativity,gold,2022,naacl,False,NA
+servicenow,gold,2022,naacl,False,NA
+tiaa,gold,2022,naacl,False,NA
+ets,gold,2022,naacl,False,NA
+cohere.ai,gold,2022,naacl,False,NA
+g-research,gold,2022,naacl,False,NA
+openai,gold,2022,naacl,True,openai
+two sigma,gold,2022,naacl,False,NA
+asapp,silver,2022,naacl,False,NA
+duolingo,silver,2022,naacl,False,NA
+magic data,silver,2022,naacl,False,NA
+adobe,bronze,2022,naacl,False,NA
+babelscape,bronze,2022,naacl,False,NA
+human language technology center of excellence,bronze,2022,naacl,False,NA
+linkedin,bronze,2022,naacl,True,microsoft
+rakuten,bronze,2022,naacl,False,NA
+uc santa cruz,bronze,2022,naacl,False,NA
+aixplain,bronze,2022,naacl,False,NA
+microsoft,diversity and inclusion,2022,naacl,True,microsoft
+deepmind,diversity and inclusion,2022,naacl,True,alphabet
+g-research,diversity and inclusion,2022,naacl,False,NA
+activeloop,diamond,2022,neurips,False,NA
+amazon science,diamond,2022,neurips,True,amazon
+apple,diamond,2022,neurips,True,apple
+astrazeneca,diamond,2022,neurips,False,NA
+citadel enterprise americas lls,diamond,2022,neurips,False,NA
+deepmind technologies ltd,diamond,2022,neurips,True,alphabet
+google llc,diamond,2022,neurips,True,alphabet
+g-research,diamond,2022,neurips,False,NA
+jane street,diamond,2022,neurips,False,NA
+"lambda, inc.",diamond,2022,neurips,False,NA
+lg ai research,diamond,2022,neurips,False,NA
+"meta platforms, inc.",diamond,2022,neurips,True,meta
+qualcomm,diamond,2022,neurips,False,NA
+salesforce,diamond,2022,neurips,False,NA
+sony,diamond,2022,neurips,False,NA
+bloomberg lp,platinum,2022,neurips,False,NA
+borealis ai,platinum,2022,neurips,False,NA
+"capital one services, llc.",platinum,2022,neurips,False,NA
+cohere,platinum,2022,neurips,False,NA
+d. e. shaw & co.,platinum,2022,neurips,False,NA
+disney research,platinum,2022,neurips,False,NA
+hudson river trading,platinum,2022,neurips,False,NA
+ibm,platinum,2022,neurips,False,NA
+king abdullah university of science and technology,platinum,2022,neurips,False,NA
+lightning ai,platinum,2022,neurips,False,NA
+mathworks,platinum,2022,neurips,False,NA
+microsoft,platinum,2022,neurips,True,microsoft
+naver,platinum,2022,neurips,False,NA
+optum labs,platinum,2022,neurips,False,NA
+pdt partners,platinum,2022,neurips,False,NA
+point72 / cubist systematic strategies,platinum,2022,neurips,False,NA
+spotify,platinum,2022,neurips,False,NA
+squarepoint,platinum,2022,neurips,False,NA
+tiktok,platinum,2022,neurips,True,bytedance
+"two sigma investments, lp",platinum,2022,neurips,False,NA
+waymo,platinum,2022,neurips,True,alphabet
+"weights and biases, inc.",platinum,2022,neurips,False,NA
+alibaba group,gold,2022,neurips,True,alibaba
+bosch ai,gold,2022,neurips,False,NA
+cerebras systems,gold,2022,neurips,False,NA
+datumo,gold,2022,neurips,False,NA
+generally intelligent,gold,2022,neurips,False,NA
+hpc-ai technology llc,gold,2022,neurips,False,NA
+ieee sa,gold,2022,neurips,False,NA
+jasper ai,gold,2022,neurips,False,NA
+jump trading,gold,2022,neurips,False,NA
+mosaicml,gold,2022,neurips,True,databricks
+nec laboratories america,gold,2022,neurips,False,NA
+netflix,gold,2022,neurips,False,NA
+neural magic,gold,2022,neurips,False,NA
+omniml inc.,gold,2022,neurips,False,NA
+owkin,gold,2022,neurips,False,NA
+pachyderm,gold,2022,neurips,False,NA
+samsung sail montreal,gold,2022,neurips,True,samsung
+sandboxaq,gold,2022,neurips,False,NA
+servicenow,gold,2022,neurips,False,NA
+toloka ai,gold,2022,neurips,True,alibaba
+yahoo!,gold,2022,neurips,False,NA
+yokogawa digital corporation,gold,2022,neurips,False,NA
+balyasny asset management,silver,2022,neurips,False,NA
+"beijing baidu netcom science technology co., ltd",silver,2022,neurips,False,NA
+cruise,silver,2022,neurips,False,NA
+gensyn,silver,2022,neurips,False,NA
+hewlett packard enterprise,silver,2022,neurips,False,NA
+manteio capital,silver,2022,neurips,False,NA
+"quantumblack, ai by mckinsey",silver,2022,neurips,False,NA
+relation therapeutics,silver,2022,neurips,False,NA
+secondmind,silver,2022,neurips,False,NA
+the vector institute,silver,2022,neurips,False,NA
+cambridge university press,book,2022,neurips,False,NA
+"intelligent computing, a science partner journal",book,2022,neurips,False,NA
+mit press,book,2022,neurips,False,NA
+princeton university press,book,2022,neurips,False,NA
+society for industrial & applied mathematics,book,2022,neurips,False,NA
+springer,book,2022,neurips,False,NA
+astrazeneca,diamond,2022,icml,False,NA
+google llc,diamond,2022,icml,True,alphabet
+g-research,diamond,2022,icml,False,NA
+meta,diamond,2022,icml,True,meta
+amazon science,platinum,2022,icml,True,amazon
+apple,platinum,2022,icml,True,apple
+deepmind technologies ltd,platinum,2022,icml,True,alphabet
+bytedance,gold,2022,icml,True,bytedance
+citadel | citadel securities,gold,2022,icml,False,NA
+microsoft corporation,gold,2022,icml,True,microsoft
+xtx markets,gold,2022,icml,False,NA
+absci,silver,2022,icml,False,NA
+alegion,silver,2022,icml,False,NA
+"beijing baidu netcom science technology co., ltd",silver,2022,icml,False,NA
+bloomberg,silver,2022,icml,False,NA
+bosch,silver,2022,icml,False,NA
+capital one,silver,2022,icml,False,NA
+criteo,silver,2022,icml,False,NA
+"huawei technologies co., ltd.",silver,2022,icml,True,huawei
+hudson river trading,silver,2022,icml,False,NA
+invenia labs,silver,2022,icml,False,NA
+micron,silver,2022,icml,False,NA
+morgan stanley,silver,2022,icml,False,NA
+netflix,silver,2022,icml,False,NA
+point72 / cubist systematic strategies,silver,2022,icml,False,NA
+"quantumblack, ai by mckinsey",silver,2022,icml,False,NA
+squarepoint capital,silver,2022,icml,False,NA
+two sigma,silver,2022,icml,False,NA
+xyla,silver,2022,icml,False,NA
+yokogawa electric corporation,silver,2022,icml,False,NA
+boltzbit limited,bronze,2022,icml,False,NA
+"edgestream partners, l.p.",bronze,2022,icml,False,NA
+intel corp,bronze,2022,icml,True,intel
+mohamed bin zayed university of artificial intelligence,bronze,2022,icml,False,NA
+qualcomm,bronze,2022,icml,False,NA
+roblox,bronze,2022,icml,False,NA
+sea limited,bronze,2022,icml,False,NA
+the d. e. shaw group,bronze,2022,icml,False,NA
+cambridge university press,book,2022,icml,False,NA
+"intelligent computing, a science partner journal",book,2022,icml,False,NA
+mit press,book,2022,icml,False,NA
+now publishers,book,2022,icml,False,NA
+springer,book,2022,icml,False,NA
+deepmind dei,champion,2022,iclr,True,alphabet
+google research dei,champion,2022,iclr,True,alphabet
+citadel | citadel securities,groundbreaker,2022,iclr,False,NA
+two sigma dei,leader,2022,iclr,False,NA
+bytedance,platinum,2022,iclr,True,bytedance
+deepmind,platinum,2022,iclr,True,alphabet
+google research,platinum,2022,iclr,True,alphabet
+meta ai,platinum,2022,iclr,True,meta
+microsoft,platinum,2022,iclr,True,microsoft
+qualcomm,platinum,2022,iclr,False,NA
+sea ai lab,platinum,2022,iclr,False,NA
+amazon science,gold,2022,iclr,True,amazon
+apple,gold,2022,iclr,True,apple
+baidu,gold,2022,iclr,False,NA
+bloomberg engineering,gold,2022,iclr,False,NA
+bosch,gold,2022,iclr,False,NA
+lg ai research,gold,2022,iclr,False,NA
+naver corp.,gold,2022,iclr,False,NA
+tencent arc lab,gold,2022,iclr,True,tencent
+citadel|citadel securities,silver,2022,iclr,False,NA
+morgan stanley,silver,2022,iclr,False,NA
+nvidia,silver,2022,iclr,True,nvidia
+servicenow,silver,2022,iclr,False,NA
+two sigma,silver,2022,iclr,False,NA
+"intelligent computing, a science partner journal",publishers,2022,iclr,False,NA
+https://deepmind.com/applied/deepmind-ethics-society/,sponsors,2022,facct,True,alphabet
+/static/images/dm_cmyk_logo_blue400@1x.jpg,sponsors,2022,facct,True,alphabet
+https://ai.sony/,sponsors,2022,facct,False,NA
+/static/images/sony.png,sponsors,2022,facct,False,NA
+http://www.navercorp.com/en,sponsors,2022,facct,False,NA
+/static/images/naver_ci_green.png,sponsors,2022,facct,False,NA
+https://www.lgresearch.ai/,sponsors,2022,facct,False,NA
+/static/images/lg_ai_research.png,sponsors,2022,facct,False,NA
+https://luminate.io/,with ongoing support from,2022,facct,False,NA
+/static/images/luminate_logo_primary_strapline_black_rgb-cropped.png,with ongoing support from,2022,facct,False,NA
+apple,diamond,2023,neurips,True,apple
+citadel and citadel securities,diamond,2023,neurips,False,NA
+google deepmind,diamond,2023,neurips,True,alphabet
+google llc,diamond,2023,neurips,True,alphabet
+g-research,diamond,2023,neurips,False,NA
+jane street,diamond,2023,neurips,False,NA
+lambda,diamond,2023,neurips,False,NA
+meta,diamond,2023,neurips,True,meta
+microsoft,diamond,2023,neurips,True,microsoft
+advanced micro devices (amd),platinum,2023,neurips,False,NA
+amazon science,platinum,2023,neurips,True,amazon
+ant group,platinum,2023,neurips,True,alibaba
+astrazeneca,platinum,2023,neurips,False,NA
+bloomberg,platinum,2023,neurips,False,NA
+cohere,platinum,2023,neurips,False,NA
+databricks,platinum,2023,neurips,False,NA
+eqvilent,platinum,2023,neurips,False,NA
+hudson river trading,platinum,2023,neurips,False,NA
+ibm,platinum,2023,neurips,False,NA
+intel corporate,platinum,2023,neurips,True,intel
+jump trading,platinum,2023,neurips,False,NA
+lg ai research,platinum,2023,neurips,False,NA
+mathworks,platinum,2023,neurips,False,NA
+"netflix, inc.",platinum,2023,neurips,False,NA
+oracle,platinum,2023,neurips,True,oracle
+pdt partners,platinum,2023,neurips,False,NA
+positron,platinum,2023,neurips,False,NA
+pryon,platinum,2023,neurips,False,NA
+qualcomm,platinum,2023,neurips,False,NA
+salesforce,platinum,2023,neurips,False,NA
+sony,platinum,2023,neurips,False,NA
+the d. e. shaw group,platinum,2023,neurips,False,NA
+voxel51,platinum,2023,neurips,False,NA
+weights and biases,platinum,2023,neurips,False,NA
+xtx markets,platinum,2023,neurips,False,NA
+alibaba cloud,gold,2023,neurips,True,alibaba
+comet ml,gold,2023,neurips,False,NA
+d. e. shaw research,gold,2023,neurips,False,NA
+fireworks.ai,gold,2023,neurips,False,NA
+flagship pioneering,gold,2023,neurips,False,NA
+neural magic,gold,2023,neurips,False,NA
+nexusflow,gold,2023,neurips,False,NA
+nomic ai,gold,2023,neurips,False,NA
+perplexity ai,gold,2023,neurips,False,NA
+tianqiao and chrissy chen institute,gold,2023,neurips,False,NA
+toloka ai,gold,2023,neurips,False,NA
+two sigma,gold,2023,neurips,False,NA
+borealis ai,silver,2023,neurips,False,NA
+bosch ai,silver,2023,neurips,False,NA
+capital one,silver,2023,neurips,False,NA
+cerebras systems,silver,2023,neurips,False,NA
+computing research association,silver,2023,neurips,False,NA
+determined ai,silver,2023,neurips,False,NA
+disney research,silver,2023,neurips,False,NA
+fedml,silver,2023,neurips,False,NA
+friendliai,silver,2023,neurips,False,NA
+imbue,silver,2023,neurips,False,NA
+kolena,silver,2023,neurips,False,NA
+lightning ai,silver,2023,neurips,False,NA
+mila - montréal,silver,2023,neurips,False,NA
+national reconnaissance office,silver,2023,neurips,False,NA
+nec laboratories,silver,2023,neurips,False,NA
+point72 / cubist systematic strategies,silver,2023,neurips,False,NA
+scale ai,silver,2023,neurips,False,NA
+servicenow,silver,2023,neurips,False,NA
+squarepoint capital,silver,2023,neurips,False,NA
+squeezebits,silver,2023,neurips,False,NA
+superannotate,silver,2023,neurips,False,NA
+"the regents of the university of california, san diego/ nsf-access",silver,2023,neurips,False,NA
+tiktok,silver,2023,neurips,True,bytedance
+together,silver,2023,neurips,False,NA
+"ukri centre ai for healthcare, imperial college london",silver,2023,neurips,False,NA
+vast data,silver,2023,neurips,False,NA
+"vocareum, inc.",silver,2023,neurips,False,NA
+yokogawa digital corporation,silver,2023,neurips,False,NA
+zhipu,silver,2023,neurips,False,NA
+baidu,bronze,2023,neurips,False,NA
+celonis,bronze,2023,neurips,False,NA
+multion,bronze,2023,neurips,False,NA
+openai,bronze,2023,neurips,True,openai
+roblox,bronze,2023,neurips,False,NA
+sandboxaq,bronze,2023,neurips,False,NA
+toyota research institute,bronze,2023,neurips,False,NA
+vector institute,bronze,2023,neurips,False,NA
+zoox,bronze,2023,neurips,True,amazon
+cambridge university press,book,2023,neurips,False,NA
+keai publishing,book,2023,neurips,False,NA
+siam,book,2023,neurips,False,NA
+springer,book,2023,neurips,False,NA
+the mit press,book,2023,neurips,False,NA
+translated srl,book,2023,neurips,False,NA
+citadel and citadel securities,diamond,2023,icml,False,NA
+google research,diamond,2023,icml,True,alphabet
+amazon science,platinum,2023,icml,True,amazon
+apple,platinum,2023,icml,True,apple
+colossal-ai,platinum,2023,icml,False,NA
+deepmind,platinum,2023,icml,True,alphabet
+d. e. shaw & co.,platinum,2023,icml,False,NA
+jane street,platinum,2023,icml,False,NA
+microsoft,platinum,2023,icml,True,microsoft
+lambda,gold,2023,icml,False,NA
+baidu,silver,2023,icml,False,NA
+capital one,silver,2023,icml,False,NA
+cerebras systems,silver,2023,icml,False,NA
+crusoe cloud,silver,2023,icml,False,NA
+d. e. shaw research,silver,2023,icml,False,NA
+determined ai,silver,2023,icml,False,NA
+dvc,silver,2023,icml,False,NA
+fedml,silver,2023,icml,False,NA
+friendliai,silver,2023,icml,False,NA
+kaust,silver,2023,icml,False,NA
+lightning ai,silver,2023,icml,False,NA
+meta ai,silver,2023,icml,True,meta
+mosaicml,silver,2023,icml,True,databricks
+"pdt partners, llc",silver,2023,icml,False,NA
+point72 / cubist systematic strategies,silver,2023,icml,False,NA
+sony,silver,2023,icml,False,NA
+squarepoint capital,silver,2023,icml,False,NA
+tiktok inc.,silver,2023,icml,True,bytedance
+two sigma,silver,2023,icml,False,NA
+weights and biases,silver,2023,icml,False,NA
+yokogawa digital corporation,silver,2023,icml,False,NA
+ebay,bronze,2023,icml,False,NA
+jump trading,bronze,2023,icml,False,NA
+morgan stanley,bronze,2023,icml,False,NA
+quantco,bronze,2023,icml,False,NA
+recursion,bronze,2023,icml,False,NA
+tianqiao & chrissy chen institute,bronze,2023,icml,False,NA
+"cocalc by sagemath, inc.",book,2023,icml,False,NA
+"intelligent computing, a science partner journal",book,2023,icml,False,NA
+translated srl,book,2023,icml,False,NA
+"ukri centre ai for healthcare, imperial college london",book,2023,icml,False,NA
+deepmind dei,champion,2023,iclr,True,alphabet
+black in ai,groundbreaker,2023,iclr,False,NA
+robert bosch gmbh,advocate,2023,iclr,False,NA
+zhipu,advocate,2023,iclr,False,NA
+deepmind,diamond,2023,iclr,True,alphabet
+google research,diamond,2023,iclr,True,alphabet
+"huawei technologies co., ltd.",platinum,2023,iclr,True,huawei
+amazon science,gold,2023,iclr,True,amazon
+apple,gold,2023,iclr,True,apple
+baidu,gold,2023,iclr,False,NA
+bytedance,gold,2023,iclr,True,bytedance
+meta ai,gold,2023,iclr,True,meta
+cohere,silver,2023,iclr,False,NA
+kaust,silver,2023,iclr,False,NA
+citadel & citadel securities,bronze,2023,iclr,False,NA
+openai,bronze,2023,iclr,True,openai
+qualcomm,bronze,2023,iclr,False,NA
+two sigma,bronze,2023,iclr,False,NA
+"intelligent computing, a science partner journal",publishers,2023,iclr,False,NA
+"research, a science partner journal",publishers,2023,iclr,False,NA
+https://www.luminategroup.com/,sponsors,2023,facct,False,NA
+/static/images/2023_luminate.png,sponsors,2023,facct,False,NA
+https://www.deepmind.com/,sponsors,2023,facct,True,alphabet
+/static/images/2023_deepmind.png,sponsors,2023,facct,True,alphabet
+https://machinelearning.apple.com/,sponsors,2023,facct,True,apple
+/static/images/2023_apple.png,sponsors,2023,facct,True,apple
+https://www.microsoft.com/en-us/research/,sponsors,2023,facct,True,microsoft
+/static/images/2023_microsoft.png,sponsors,2023,facct,True,microsoft
+capital one,diamond,2024,naacl,False,NA
+baidu,platinum,2024,naacl,False,NA
+grammarly,platinum,2024,naacl,False,NA
+kensho,platinum,2024,naacl,False,NA
+megagon,platinum,2024,naacl,False,NA
+otter.ai,platinum,2024,naacl,False,NA
+apple,gold,2024,naacl,True,apple
+bloomberg,gold,2024,naacl,False,NA
+two sigma,gold,2024,naacl,False,NA
+cohere,gold,2024,naacl,False,NA
+adobe,bronze,2024,naacl,False,NA
+jpmorgan,bronze,2024,naacl,False,NA
+grammarly,diversity and inclusion ally,2024,naacl,False,NA
+amazon science,diamond,2024,neurips,True,amazon
+apple,diamond,2024,neurips,True,apple
+bytedance,diamond,2024,neurips,True,bytedance
+citadel & citadel securities,diamond,2024,neurips,False,NA
+google deepmind,diamond,2024,neurips,True,alphabet
+google research,diamond,2024,neurips,True,alphabet
+g-research,diamond,2024,neurips,False,NA
+hpc-ai.com,diamond,2024,neurips,False,NA
+iren,diamond,2024,neurips,False,NA
+jane street,diamond,2024,neurips,False,NA
+jump trading,diamond,2024,neurips,False,NA
+lambda,diamond,2024,neurips,False,NA
+meta,diamond,2024,neurips,True,meta
+microsoft,diamond,2024,neurips,True,microsoft
+nebius,diamond,2024,neurips,False,NA
+qualcomm,diamond,2024,neurips,False,NA
+the d. e. shaw group,diamond,2024,neurips,False,NA
+abu dhabi investment authority (adia),platinum,2024,neurips,False,NA
+advanced micro devices,platinum,2024,neurips,False,NA
+akash network by overclock labs,platinum,2024,neurips,False,NA
+alibaba cloud,platinum,2024,neurips,True,alibaba
+ant group,platinum,2024,neurips,True,alibaba
+bittensor,platinum,2024,neurips,False,NA
+bloomberg,platinum,2024,neurips,False,NA
+capital one,platinum,2024,neurips,False,NA
+cohere,platinum,2024,neurips,False,NA
+crusoe energy,platinum,2024,neurips,False,NA
+databricks,platinum,2024,neurips,False,NA
+encord,platinum,2024,neurips,False,NA
+ibm,platinum,2024,neurips,False,NA
+intel,platinum,2024,neurips,True,intel
+mathworks,platinum,2024,neurips,False,NA
+neptune.ai,platinum,2024,neurips,False,NA
+optiver,platinum,2024,neurips,False,NA
+recogni,platinum,2024,neurips,False,NA
+salesforce,platinum,2024,neurips,False,NA
+scale ai,platinum,2024,neurips,False,NA
+shopify inc,platinum,2024,neurips,False,NA
+snowflake computing canada ulc,platinum,2024,neurips,False,NA
+sony,platinum,2024,neurips,False,NA
+tesla,platinum,2024,neurips,True,tesla
+turing,platinum,2024,neurips,False,NA
+voxel51,platinum,2024,neurips,False,NA
+waymo,platinum,2024,neurips,True,alphabet
+writer,platinum,2024,neurips,False,NA
+xtx markets,platinum,2024,neurips,False,NA
+ahrefs,gold,2024,neurips,False,NA
+chan zuckerberg initiative,gold,2024,neurips,False,NA
+cloudflare,gold,2024,neurips,False,NA
+comet,gold,2024,neurips,False,NA
+datologyai,gold,2024,neurips,False,NA
+d. e. shaw research,gold,2024,neurips,False,NA
+d-matrix,gold,2024,neurips,False,NA
+emergence ai,gold,2024,neurips,False,NA
+genesis therapeutics,gold,2024,neurips,False,NA
+gridmatic,gold,2024,neurips,False,NA
+gsk.ai,gold,2024,neurips,False,NA
+labelbox,gold,2024,neurips,False,NA
+lightning ai,gold,2024,neurips,False,NA
+mistral ai,gold,2024,neurips,False,NA
+netflix research,gold,2024,neurips,False,NA
+neural magic,gold,2024,neurips,False,NA
+nutanix,gold,2024,neurips,False,NA
+nxai,gold,2024,neurips,False,NA
+tianqiao and chrissy chen institute,gold,2024,neurips,False,NA
+together ai,gold,2024,neurips,False,NA
+twelve labs,gold,2024,neurips,False,NA
+waveforms ai,gold,2024,neurips,False,NA
+wayve,gold,2024,neurips,False,NA
+weights & biases,gold,2024,neurips,False,NA
+worldquant llc,gold,2024,neurips,False,NA
+上海明汯投资管理有限公司,gold,2024,neurips,False,NA
+anaconda,silver,2024,neurips,False,NA
+booster robotics,silver,2024,neurips,False,NA
+cerebras systems,silver,2024,neurips,False,NA
+dataforce,silver,2024,neurips,False,NA
+dataocean ai,silver,2024,neurips,False,NA
+diffusedrive,silver,2024,neurips,False,NA
+drw,silver,2024,neurips,False,NA
+ellis institute tübingen,silver,2024,neurips,False,NA
+exa,silver,2024,neurips,False,NA
+figma,silver,2024,neurips,False,NA
+gatik ai,silver,2024,neurips,False,NA
+helm.ai,silver,2024,neurips,False,NA
+huawei,silver,2024,neurips,True,huawei
+imbue,silver,2024,neurips,False,NA
+"insait – institute for computer science, ai & technology",silver,2024,neurips,False,NA
+iris.ai,silver,2024,neurips,False,NA
+kaggle,silver,2024,neurips,True,alphabet
+linkedin,silver,2024,neurips,True,microsoft
+"linkerbot beijing technology co., ltd.",silver,2024,neurips,False,NA
+liquid ai,silver,2024,neurips,False,NA
+matic robots,silver,2024,neurips,False,NA
+mila - quebec artificial intelligence institut,silver,2024,neurips,False,NA
+point72 / cubist systematic strategies,silver,2024,neurips,False,NA
+rbc borealis,silver,2024,neurips,False,NA
+runpod,silver,2024,neurips,False,NA
+sambanova systems,silver,2024,neurips,False,NA
+servicenow,silver,2024,neurips,False,NA
+spellbrush,silver,2024,neurips,False,NA
+squarepoint capital,silver,2024,neurips,False,NA
+"superannotate ai, inc",silver,2024,neurips,False,NA
+thomson reuters labs,silver,2024,neurips,False,NA
+toloka ai,silver,2024,neurips,True,alibaba
+toyota research institute,silver,2024,neurips,False,NA
+two sigma,silver,2024,neurips,False,NA
+unitree robotics,silver,2024,neurips,False,NA
+vatic labs,silver,2024,neurips,False,NA
+virtue ai,silver,2024,neurips,False,NA
+virtu financial,silver,2024,neurips,False,NA
+woven by toyota,silver,2024,neurips,False,NA
+yokogawa digital corporation,silver,2024,neurips,False,NA
+astrazeneca,bronze,2024,neurips,False,NA
+baidu,bronze,2024,neurips,False,NA
+basis research institute,bronze,2024,neurips,False,NA
+cognizant,bronze,2024,neurips,False,NA
+commonwealth bank of australia,bronze,2024,neurips,False,NA
+duolingo,bronze,2024,neurips,False,NA
+imc trading,bronze,2024,neurips,False,NA
+natwest group,bronze,2024,neurips,False,NA
+pdt partners,bronze,2024,neurips,False,NA
+susquehanna international group,bronze,2024,neurips,False,NA
+vector institute,bronze,2024,neurips,False,NA
+cambridge university press,book,2024,neurips,False,NA
+"cocalc by sagemath, inc.",book,2024,neurips,False,NA
+siam,book,2024,neurips,False,NA
+skim ai,book,2024,neurips,False,NA
+springer,book,2024,neurips,False,NA
+translated,book,2024,neurips,False,NA
+citadel and citadel securities,diamond,2024,icml,False,NA
+eqvilent,diamond,2024,icml,False,NA
+google deepmind,diamond,2024,icml,True,alphabet
+google research,diamond,2024,icml,True,alphabet
+g-research,diamond,2024,icml,False,NA
+jane street,diamond,2024,icml,False,NA
+jump trading,diamond,2024,icml,False,NA
+microsoft,diamond,2024,icml,True,microsoft
+the d. e. shaw group,diamond,2024,icml,False,NA
+amazon science,platinum,2024,icml,True,amazon
+bytedance,platinum,2024,icml,True,bytedance
+hsbc,platinum,2024,icml,False,NA
+apple,platinum,2024,icml,True,apple
+meta,platinum,2024,icml,True,meta
+xtx markets,gold,2024,icml,False,NA
+abu dhabi investment authority (adia),silver,2024,icml,False,NA
+ant group,silver,2024,icml,True,alibaba
+astrazeneca,silver,2024,icml,False,NA
+baidu,silver,2024,icml,False,NA
+capital one,silver,2024,icml,False,NA
+cerebras systems,silver,2024,icml,False,NA
+comet,silver,2024,icml,False,NA
+criteo,silver,2024,icml,False,NA
+databricks,silver,2024,icml,False,NA
+datologyai,silver,2024,icml,False,NA
+determined ai,silver,2024,icml,False,NA
+hudson river trading,silver,2024,icml,False,NA
+lightning ai,silver,2024,icml,False,NA
+liquid ai,silver,2024,icml,False,NA
+mistral ai,silver,2024,icml,False,NA
+nebius ai,silver,2024,icml,False,NA
+neptune.ai,silver,2024,icml,False,NA
+netflix inc,silver,2024,icml,False,NA
+point72 / cubist systematic strategies,silver,2024,icml,False,NA
+robinhood,silver,2024,icml,False,NA
+snowflake poland sp. z o.o.,silver,2024,icml,False,NA
+squarepoint-capital,silver,2024,icml,False,NA
+superannotate,silver,2024,icml,False,NA
+together ai,silver,2024,icml,False,NA
+toloka,silver,2024,icml,False,NA
+two sigma,silver,2024,icml,False,NA
+virtu financial,silver,2024,icml,False,NA
+worldquant llc,silver,2024,icml,False,NA
+yokogawa digital corporation,silver,2024,icml,False,NA
+cognizant,bronze,2024,icml,False,NA
+ebay,bronze,2024,icml,False,NA
+"huawei technologies co., ltd.",bronze,2024,icml,True,huawei
+morgan stanley,bronze,2024,icml,False,NA
+pdt partners,bronze,2024,icml,False,NA
+qualcomm,bronze,2024,icml,False,NA
+quantco,bronze,2024,icml,False,NA
+tower research capital,bronze,2024,icml,False,NA
+cocalc,book,2024,icml,False,NA
+"health science data, a science partner journal",book,2024,icml,False,NA
+springer,book,2024,icml,False,NA
+translated,book,2024,icml,False,NA
+"ukri centre ai for healthcare, imperial college london",book,2024,icml,False,NA
+google deepmind,diamond,2024,iclr,True,alphabet
+google research,diamond,2024,iclr,True,alphabet
+meta,diamond,2024,iclr,True,meta
+microsoft,diamond,2024,iclr,True,microsoft
+bytedance,platinum,2024,iclr,True,bytedance
+"huawei technologies co., ltd.",platinum,2024,iclr,True,huawei
+scale ai,platinum,2024,iclr,False,NA
+the d. e. shaw group,platinum,2024,iclr,False,NA
+amazon,gold,2024,iclr,True,amazon
+apple,gold,2024,iclr,True,apple
+borealis ai,gold,2024,iclr,False,NA
+capital one,gold,2024,iclr,False,NA
+d. e. shaw research,gold,2024,iclr,False,NA
+lightning ai,gold,2024,iclr,False,NA
+meituan,gold,2024,iclr,False,NA
+together ai,gold,2024,iclr,False,NA
+kaust ai initiative ai main navigation,silver,2024,iclr,False,NA
+liquid ai,silver,2024,iclr,False,NA
+mistral ai,silver,2024,iclr,False,NA
+nebius ai,silver,2024,iclr,False,NA
+ahrefs,bronze,2024,iclr,False,NA
+ant research,bronze,2024,iclr,True,alibaba
+baidu,bronze,2024,iclr,False,NA
+cognition,bronze,2024,iclr,False,NA
+cognizant ai labs,bronze,2024,iclr,False,NA
+etched,bronze,2024,iclr,False,NA
+openai,bronze,2024,iclr,True,openai
+qualcomm,bronze,2024,iclr,False,NA
+sony ai,bronze,2024,iclr,False,NA
+tianqiao and chrissy chen institute,bronze,2024,iclr,False,NA
+two sigma,bronze,2024,iclr,False,NA
+cambridge university press,publishers,2024,iclr,False,NA
+"cocalc by sagemath, inc.",publishers,2024,iclr,False,NA
+"intelligent computing, a science partner journal",publishers,2024,iclr,False,NA
+translated,publishers,2024,iclr,False,NA
+deepmind dei,champion,2024,iclr,True,alphabet
+google research dei,champion,2024,iclr,True,alphabet
+sony ai dei fund,advocate,2024,iclr,False,NA
+bosch,leader,2024,iclr,False,NA
+https://survivalandflourishing.fund,sponsors,2024,facct,False,NA
+/static/images/2024_saf.png,sponsors,2024,facct,False,NA
+https://aws.amazon.com/machine-learning/responsible-machine-learning/,sponsors,2024,facct,True,amazon
+/static/images/2023_amazon.png,sponsors,2024,facct,True,amazon
+https://www.deepmind.com/,sponsors,2024,facct,True,alphabet
+/static/images/2024_googledeepmind.png,sponsors,2024,facct,True,alphabet
+toloka ai,platinum,2025,naacl,True,alibaba
+adobe,platinum,2025,naacl,False,NA
+megagon,platinum,2025,naacl,False,NA
+baidu,platinum,2025,naacl,False,NA
+capital one,platinum,2025,naacl,False,NA
+apple,gold,2025,naacl,True,apple
+bloomberg,gold,2025,naacl,False,NA
+translated,bronze,2025,naacl,False,NA
+apple,diversity and inclusion ally,2025,naacl,True,apple
+amazon,diamond,2025,neurips,True,amazon
+ant group,diamond,2025,neurips,True,alibaba
+apple,diamond,2025,neurips,True,apple
+biohub,diamond,2025,neurips,False,NA
+bytedance,diamond,2025,neurips,True,bytedance
+citadel and citadel securities,diamond,2025,neurips,False,NA
+cloud native computing foundation/pytorch foundation,diamond,2025,neurips,False,NA
+cogs & marvel,diamond,2025,neurips,False,NA
+d. e. shaw research,diamond,2025,neurips,False,NA
+general motors,diamond,2025,neurips,False,NA
+google,diamond,2025,neurips,True,alphabet
+handshake ai,diamond,2025,neurips,False,NA
+hudson river trading,diamond,2025,neurips,False,NA
+jane street,diamond,2025,neurips,False,NA
+jump trading,diamond,2025,neurips,False,NA
+lambda,diamond,2025,neurips,False,NA
+lightwheel limited,diamond,2025,neurips,False,NA
+mbzuai - institute of foundation models,diamond,2025,neurips,False,NA
+microsoft corporation,diamond,2025,neurips,True,microsoft
+ollama,diamond,2025,neurips,False,NA
+optiver,diamond,2025,neurips,False,NA
+poolside,diamond,2025,neurips,False,NA
+qualcomm ai research,diamond,2025,neurips,False,NA
+reflection,diamond,2025,neurips,False,NA
+renaissance philanthropy,diamond,2025,neurips,False,NA
+shopify,diamond,2025,neurips,False,NA
+susquehanna international group,diamond,2025,neurips,False,NA
+tesla,diamond,2025,neurips,True,tesla
+the d. e. shaw group,diamond,2025,neurips,False,NA
+turing,diamond,2025,neurips,False,NA
+abu dhabi investment authority,platinum,2025,neurips,False,NA
+arm,platinum,2025,neurips,False,NA
+bloomberg,platinum,2025,neurips,False,NA
+capital one,platinum,2025,neurips,False,NA
+cohere,platinum,2025,neurips,False,NA
+databricks,platinum,2025,neurips,False,NA
+drw,platinum,2025,neurips,False,NA
+emmi ai,platinum,2025,neurips,False,NA
+encord,platinum,2025,neurips,False,NA
+g-research,platinum,2025,neurips,False,NA
+groq,platinum,2025,neurips,False,NA
+ibm,platinum,2025,neurips,False,NA
+imc,platinum,2025,neurips,False,NA
+intuit,platinum,2025,neurips,False,NA
+invisible technologies,platinum,2025,neurips,False,NA
+jetbrains,platinum,2025,neurips,False,NA
+naver,platinum,2025,neurips,False,NA
+nebius,platinum,2025,neurips,False,NA
+netflix,platinum,2025,neurips,False,NA
+nvidia,platinum,2025,neurips,True,nvidia
+oracle,platinum,2025,neurips,True,oracle
+qualcomm,platinum,2025,neurips,False,NA
+revelo,platinum,2025,neurips,False,NA
+salesforce,platinum,2025,neurips,False,NA
+scale ai,platinum,2025,neurips,False,NA
+snowflake,platinum,2025,neurips,False,NA
+sony,platinum,2025,neurips,False,NA
+soundpatrol,platinum,2025,neurips,False,NA
+td bank group - layer6 ai,platinum,2025,neurips,False,NA
+waymo,platinum,2025,neurips,True,alphabet
+weights & biases,platinum,2025,neurips,False,NA
+wells fargo,platinum,2025,neurips,False,NA
+writer,platinum,2025,neurips,False,NA
+xtx markets,platinum,2025,neurips,False,NA
+alibaba cloud,gold,2025,neurips,True,alibaba
+appen,gold,2025,neurips,False,NA
+atlassian,gold,2025,neurips,False,NA
+blackrock systematic,gold,2025,neurips,False,NA
+cartesia ai,gold,2025,neurips,False,NA
+cerebras systems,gold,2025,neurips,False,NA
+commonwealth bank of australia,gold,2025,neurips,False,NA
+datacurve ai,gold,2025,neurips,False,NA
+datadog,gold,2025,neurips,False,NA
+datologyai,gold,2025,neurips,False,NA
+distyl ai,gold,2025,neurips,False,NA
+figma inc.,gold,2025,neurips,False,NA
+fundamental technologies inc.,gold,2025,neurips,False,NA
+genesis molecular ai,gold,2025,neurips,False,NA
+intel,gold,2025,neurips,True,intel
+joinquant,gold,2025,neurips,False,NA
+kuaishou,gold,2025,neurips,False,NA
+lighthouse,gold,2025,neurips,False,NA
+lightly,gold,2025,neurips,False,NA
+linkedin,gold,2025,neurips,True,microsoft
+liquid ai,gold,2025,neurips,False,NA
+mathworks,gold,2025,neurips,False,NA
+mila - quebec ai institute,gold,2025,neurips,False,NA
+novartis,gold,2025,neurips,False,NA
+point72 / cubist systematic strategies,gold,2025,neurips,False,NA
+pydantic,gold,2025,neurips,False,NA
+qube research and technologies,gold,2025,neurips,False,NA
+rbc borealis,gold,2025,neurips,False,NA
+runpod,gold,2025,neurips,False,NA
+taobao and tmall group,gold,2025,neurips,True,alibaba
+telus digital,gold,2025,neurips,False,NA
+together ai,gold,2025,neurips,False,NA
+two sigma,gold,2025,neurips,False,NA
+upwork,gold,2025,neurips,False,NA
+virtu financial,gold,2025,neurips,False,NA
+voloridge investment management,gold,2025,neurips,False,NA
+voltage park,gold,2025,neurips,False,NA
+worldquant llc,gold,2025,neurips,False,NA
+yokogawa digital corporation,gold,2025,neurips,False,NA
+boson ai,silver,2025,neurips,False,NA
+centific,silver,2025,neurips,False,NA
+dandy,silver,2025,neurips,False,NA
+dataoceanai,silver,2025,neurips,False,NA
+deccan ai,silver,2025,neurips,False,NA
+firstsource,silver,2025,neurips,False,NA
+flow traders,silver,2025,neurips,False,NA
+furiosaai,silver,2025,neurips,False,NA
+ideogram ai,silver,2025,neurips,False,NA
+io.net,silver,2025,neurips,False,NA
+mats research,silver,2025,neurips,False,NA
+meter,silver,2025,neurips,False,NA
+mirage,silver,2025,neurips,False,NA
+modal,silver,2025,neurips,False,NA
+natwest group,silver,2025,neurips,False,NA
+"ntt, inc.",silver,2025,neurips,False,NA
+pruna ai,silver,2025,neurips,False,NA
+servicenow,silver,2025,neurips,False,NA
+simular,silver,2025,neurips,False,NA
+spoc biosciences,silver,2025,neurips,False,NA
+spotify,silver,2025,neurips,False,NA
+thomson reuters,silver,2025,neurips,False,NA
+toloka ai inc.,silver,2025,neurips,False,NA
+wayve,silver,2025,neurips,False,NA
+abaka ai,bronze,2025,neurips,False,NA
+astrus,bronze,2025,neurips,False,NA
+bagel labs,bronze,2025,neurips,False,NA
+basis research institute,bronze,2025,neurips,False,NA
+clarifai,bronze,2025,neurips,False,NA
+conway,bronze,2025,neurips,False,NA
+deep genomics inc.,bronze,2025,neurips,False,NA
+lenovo,bronze,2025,neurips,False,NA
+lightning ai,bronze,2025,neurips,False,NA
+nec,bronze,2025,neurips,False,NA
+openai,bronze,2025,neurips,True,openai
+pdt partners,bronze,2025,neurips,False,NA
+sanctuary ai,bronze,2025,neurips,False,NA
+"scaled cognition, inc.",bronze,2025,neurips,False,NA
+sonicjobs,bronze,2025,neurips,False,NA
+uber ai solutions,bronze,2025,neurips,False,NA
+virtue ai,bronze,2025,neurips,False,NA
+association for computing machinery,book,2025,neurips,False,NA
+cambridge university press,book,2025,neurips,False,NA
+intelligent computing,book,2025,neurips,False,NA
+iop publishing,book,2025,neurips,False,NA
+springer,book,2025,neurips,False,NA
+the mit press,book,2025,neurips,False,NA
+translated,book,2025,neurips,False,NA
+gbm,mexico,2025,neurips,False,NA
+citadel and citadel securities,diamond,2025,icml,False,NA
+cogs & marvel,diamond,2025,icml,False,NA
+d. e. shaw research,diamond,2025,icml,False,NA
+google,diamond,2025,icml,True,alphabet
+hudson river trading llc,diamond,2025,icml,False,NA
+jane street,diamond,2025,icml,False,NA
+jump trading,diamond,2025,icml,False,NA
+microsoft,diamond,2025,icml,True,microsoft
+optiver,diamond,2025,icml,False,NA
+susquehanna international group,diamond,2025,icml,False,NA
+the d. e. shaw group,diamond,2025,icml,False,NA
+akash network,platinum,2025,icml,False,NA
+amazon,platinum,2025,icml,True,amazon
+apple,platinum,2025,icml,True,apple
+bytedance,platinum,2025,icml,True,bytedance
+capital one,platinum,2025,icml,False,NA
+handshake ai,platinum,2025,icml,False,NA
+ibm,platinum,2025,icml,False,NA
+ollama,platinum,2025,icml,False,NA
+shopify,platinum,2025,icml,False,NA
+tencent,platinum,2025,icml,True,tencent
+turing,platinum,2025,icml,False,NA
+cartesia,gold,2025,icml,False,NA
+cerebras systems,gold,2025,icml,False,NA
+comet,gold,2025,icml,False,NA
+databricks,gold,2025,icml,False,NA
+datologyai,gold,2025,icml,False,NA
+drw,gold,2025,icml,False,NA
+huawei,gold,2025,icml,True,huawei
+kaggle,gold,2025,icml,True,alphabet
+lambda,gold,2025,icml,False,NA
+linkedin,gold,2025,icml,True,microsoft
+liquid ai,gold,2025,icml,False,NA
+mbzuai - institute of foundation models,gold,2025,icml,False,NA
+nebius,gold,2025,icml,False,NA
+netflix inc.,gold,2025,icml,False,NA
+point72 / cubist systematic strategies,gold,2025,icml,False,NA
+rbc borealis,gold,2025,icml,False,NA
+scale ai,gold,2025,icml,False,NA
+together ai,gold,2025,icml,False,NA
+two sigma,gold,2025,icml,False,NA
+writer,gold,2025,icml,False,NA
+deccan ai,silver,2025,icml,False,NA
+"superannotate ai, inc",silver,2025,icml,False,NA
+toloka ai,silver,2025,icml,True,alibaba
+vast.ai,silver,2025,icml,False,NA
+waveforms ai,silver,2025,icml,False,NA
+wayve,silver,2025,icml,False,NA
+artificial intelligence talent agency,bronze,2025,icml,False,NA
+bagel,bronze,2025,icml,False,NA
+baidu,bronze,2025,icml,False,NA
+cognizant al lab,bronze,2025,icml,False,NA
+imc trading,bronze,2025,icml,False,NA
+morgan stanley,bronze,2025,icml,False,NA
+pdt partners,bronze,2025,icml,False,NA
+runpod,bronze,2025,icml,False,NA
+sonicjobs,bronze,2025,icml,False,NA
+trexquant investment lp,bronze,2025,icml,False,NA
+virtue ai,bronze,2025,icml,False,NA
+yokogawa digital corporation,bronze,2025,icml,False,NA
+北京聚宽投资管理有限公司（北京joinquant投资管理有限公司）,bronze,2025,icml,False,NA
+"cocalc by sagemath, inc.",book,2025,icml,False,NA
+frontiers,book,2025,icml,False,NA
+"health data science, a science partner journal",book,2025,icml,False,NA
+mdpi,book,2025,icml,False,NA
+translated,book,2025,icml,False,NA
+neptune.ai,de-stress,2025,icml,False,NA
+alibaba cloud,diamond,2025,iclr,True,alibaba
+bytedance,diamond,2025,iclr,True,bytedance
+citadel | citadel securities,diamond,2025,iclr,False,NA
+google research,diamond,2025,iclr,True,alphabet
+infocomm media development authority,diamond,2025,iclr,False,NA
+jane street,diamond,2025,iclr,False,NA
+jump trading,diamond,2025,iclr,False,NA
+meta,diamond,2025,iclr,True,meta
+microsoft,diamond,2025,iclr,True,microsoft
+optiver,diamond,2025,iclr,False,NA
+the d. e. shaw group,diamond,2025,iclr,False,NA
+abu dhabi investment authority,platinum,2025,iclr,False,NA
+amazon,platinum,2025,iclr,True,amazon
+ant research,platinum,2025,iclr,True,alibaba
+apple inc.,platinum,2025,iclr,True,apple
+encord,platinum,2025,iclr,False,NA
+huawei,platinum,2025,iclr,True,huawei
+hudson river trading,platinum,2025,iclr,False,NA
+nebius,platinum,2025,iclr,False,NA
+oracle,platinum,2025,iclr,True,oracle
+salesforce,platinum,2025,iclr,False,NA
+scale ai,platinum,2025,iclr,False,NA
+shopify,platinum,2025,iclr,False,NA
+turing,platinum,2025,iclr,False,NA
+aleph alpha,gold,2025,iclr,False,NA
+appen,gold,2025,iclr,False,NA
+commonwealth bank,gold,2025,iclr,False,NA
+d. e. shaw research,gold,2025,iclr,False,NA
+meituan,gold,2025,iclr,False,NA
+sea,gold,2025,iclr,False,NA
+superannotate,gold,2025,iclr,False,NA
+together ai,gold,2025,iclr,False,NA
+toloka ai,gold,2025,iclr,True,alibaba
+unitree robotics,gold,2025,iclr,False,NA
+upwork inc.,gold,2025,iclr,False,NA
+worldquant llc,gold,2025,iclr,False,NA
+writer,gold,2025,iclr,False,NA
+宽德投资wizardquant,gold,2025,iclr,False,NA
+abaka ai,silver,2025,iclr,False,NA
+atmanity inc.,silver,2025,iclr,False,NA
+"booster robotics technology co., ltd",silver,2025,iclr,False,NA
+heygen,silver,2025,iclr,False,NA
+liquid,silver,2025,iclr,False,NA
+mbzuai - institute of foundation models,silver,2025,iclr,False,NA
+onesource cloud,silver,2025,iclr,False,NA
+orby ai,silver,2025,iclr,False,NA
+simular,silver,2025,iclr,False,NA
+tesollo inc.,silver,2025,iclr,False,NA
+typhoon l scb 10x,silver,2025,iclr,False,NA
+zhongguancun academy,silver,2025,iclr,False,NA
+adobe inc.,bronze,2025,iclr,False,NA
+arc institute,bronze,2025,iclr,False,NA
+baidu,bronze,2025,iclr,False,NA
+eqvilent,bronze,2025,iclr,False,NA
+openai,bronze,2025,iclr,True,openai
+shanghai artificial intelligence laboratory,bronze,2025,iclr,False,NA
+temasek,bronze,2025,iclr,False,NA
+two sigma,bronze,2025,iclr,False,NA
+science partner journals,publishers,2025,iclr,False,NA
+springer,publishers,2025,iclr,False,NA
+translated,publishers,2025,iclr,False,NA
+google research dei,champion,2025,iclr,True,alphabet
+apple inc. dei,leader,2025,iclr,True,apple
+https://archimedesai.gr/en/,supporters,2025,facct,False,NA
+https://www.athenarc.gr/en/home,supporters,2025,facct,False,NA
+/static/images/2025_archimedes.png,supporters,2025,facct,False,NA
+/static/images/2025_athena.jpg,supporters,2025,facct,False,NA
+https://aws.amazon.com/machine-learning/responsible-machine-learning/,sponsors,2025,facct,True,amazon
+https://www.deepmind.com/,sponsors,2025,facct,True,alphabet
+https://svcf.org/,sponsors,2025,facct,False,NA
+/static/images/2025logo/amazon-logo.png,sponsors,2025,facct,True,amazon
+/static/images/2025logo/google-deep-mind-logo.jpg,sponsors,2025,facct,True,alphabet
+/static/images/2025logo/svcf-logo.png,sponsors,2025,facct,False,NA
+https://ai.meta.com/research/,sponsors,2025,facct,True,meta
+https://openai.com,sponsors,2025,facct,True,openai
+https://www.schmidtsciences.org/,sponsors,2025,facct,False,NA
+https://www.tiktok.com/safety/en/,sponsors,2025,facct,True,bytedance
+https://www.microsoft.com/en-us/,sponsors,2025,facct,True,microsoft
+/static/images/2025logo/meta_logo.png,sponsors,2025,facct,True,meta
+/static/images/2025logo/openai-logo.png,sponsors,2025,facct,True,openai
+/static/images/2025logo/schmidtsciences-logo.png,sponsors,2025,facct,False,NA
+/static/images/2025logo/tiktok_primary_logo_black.png,sponsors,2025,facct,True,bytedance
+/static/images/2025logo/microsoft.png,sponsors,2025,facct,True,microsoft
+https://ai.sony/,sponsors,2025,facct,False,NA
+https://rc-trust.ai/,sponsors,2025,facct,False,NA
+/static/images/2025logo/sony_ai_logo.png,sponsors,2025,facct,False,NA
+/static/images/2025logo/rcts.png,sponsors,2025,facct,False,NA

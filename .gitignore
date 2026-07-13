@@ -1,0 +1,24 @@
+# IDE
+.idea/
+
+# environment files
+.venv/
+.env
+
+# python artefacts
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# R artefacts
+.Rhistory
+**/.Rhistory
+
+# duplicate-UID debug dumps from utils/uid_utils.py
+debug.csv
+**/debug.csv
+
+# input files that are too big for github
+input_data/naacl/*
+!input_data/naacl/.gitkeep

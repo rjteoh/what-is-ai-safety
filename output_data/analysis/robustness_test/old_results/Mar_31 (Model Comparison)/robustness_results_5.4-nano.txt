@@ -1,0 +1,413 @@
+
+=== Confusion Matrix: LLM vs Human for Safety ===
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 16 41
+         1  0 14
+                                          
+               Accuracy : 0.4225          
+                 95% CI : (0.3061, 0.5456)
+    No Information Rate : 0.7746          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1334          
+                                          
+ Mcnemar's Test P-Value : 4.185e-10       
+                                          
+            Sensitivity : 0.2545          
+            Specificity : 1.0000          
+         Pos Pred Value : 1.0000          
+         Neg Pred Value : 0.2807          
+             Prevalence : 0.7746          
+         Detection Rate : 0.1972          
+   Detection Prevalence : 0.1972          
+      Balanced Accuracy : 0.6273          
+                                          
+       'Positive' Class : 1               
+                                          
+
+=== Confusion Matrix: LLM vs Human for Categorization (Overall) ===
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 98 12
+         1 23 21
+                                          
+               Accuracy : 0.7727          
+                 95% CI : (0.6984, 0.8363)
+    No Information Rate : 0.7857          
+    P-Value [Acc > NIR] : 0.69321         
+                                          
+                  Kappa : 0.398           
+                                          
+ Mcnemar's Test P-Value : 0.09097         
+                                          
+            Sensitivity : 0.6364          
+            Specificity : 0.8099          
+         Pos Pred Value : 0.4773          
+         Neg Pred Value : 0.8909          
+             Prevalence : 0.2143          
+         Detection Rate : 0.1364          
+   Detection Prevalence : 0.2857          
+      Balanced Accuracy : 0.7231          
+                                          
+       'Positive' Class : 1               
+                                          
+
+=== Individual Confusion Matrices by Category ===
+
+--- indiv_grp_harm ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 12  1
+         1  1  0
+                                          
+               Accuracy : 0.8571          
+                 95% CI : (0.5719, 0.9822)
+    No Information Rate : 0.9286          
+    P-Value [Acc > NIR] : 0.9267          
+                                          
+                  Kappa : -0.0769         
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.00000         
+            Specificity : 0.92308         
+         Pos Pred Value : 0.00000         
+         Neg Pred Value : 0.92308         
+             Prevalence : 0.07143         
+         Detection Rate : 0.00000         
+   Detection Prevalence : 0.07143         
+      Balanced Accuracy : 0.46154         
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- info_epistemic_harm ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 11  3
+         1  0  0
+                                         
+               Accuracy : 0.7857         
+                 95% CI : (0.492, 0.9534)
+    No Information Rate : 0.7857         
+    P-Value [Acc > NIR] : 0.6483         
+                                         
+                  Kappa : 0              
+                                         
+ Mcnemar's Test P-Value : 0.2482         
+                                         
+            Sensitivity : 0.0000         
+            Specificity : 1.0000         
+         Pos Pred Value :    NaN         
+         Neg Pred Value : 0.7857         
+             Prevalence : 0.2143         
+         Detection Rate : 0.0000         
+   Detection Prevalence : 0.0000         
+      Balanced Accuracy : 0.5000         
+                                         
+       'Positive' Class : 1              
+                                         
+
+--- socioec_harm ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 10  1
+         1  1  2
+                                          
+               Accuracy : 0.8571          
+                 95% CI : (0.5719, 0.9822)
+    No Information Rate : 0.7857          
+    P-Value [Acc > NIR] : 0.396           
+                                          
+                  Kappa : 0.5758          
+                                          
+ Mcnemar's Test P-Value : 1.000           
+                                          
+            Sensitivity : 0.6667          
+            Specificity : 0.9091          
+         Pos Pred Value : 0.6667          
+         Neg Pred Value : 0.9091          
+             Prevalence : 0.2143          
+         Detection Rate : 0.1429          
+   Detection Prevalence : 0.2143          
+      Balanced Accuracy : 0.7879          
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- physical_harm ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 11  1
+         1  0  2
+                                          
+               Accuracy : 0.9286          
+                 95% CI : (0.6613, 0.9982)
+    No Information Rate : 0.7857          
+    P-Value [Acc > NIR] : 0.1647          
+                                          
+                  Kappa : 0.7586          
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.6667          
+            Specificity : 1.0000          
+         Pos Pred Value : 1.0000          
+         Neg Pred Value : 0.9167          
+             Prevalence : 0.2143          
+         Detection Rate : 0.1429          
+   Detection Prevalence : 0.1429          
+      Balanced Accuracy : 0.8333          
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- abstract_harm ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0  3 10
+         1  1  0
+                                         
+               Accuracy : 0.2143         
+                 95% CI : (0.0466, 0.508)
+    No Information Rate : 0.7143         
+    P-Value [Acc > NIR] : 0.99999        
+                                         
+                  Kappa : -0.1493        
+                                         
+ Mcnemar's Test P-Value : 0.01586        
+                                         
+            Sensitivity : 0.00000        
+            Specificity : 0.75000        
+         Pos Pred Value : 0.00000        
+         Neg Pred Value : 0.23077        
+             Prevalence : 0.71429        
+         Detection Rate : 0.00000        
+   Detection Prevalence : 0.07143        
+      Balanced Accuracy : 0.37500        
+                                         
+       'Positive' Class : 1              
+                                         
+
+--- reliability_safety ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction 0 1
+         0 4 0
+         1 6 4
+                                          
+               Accuracy : 0.5714          
+                 95% CI : (0.2886, 0.8234)
+    No Information Rate : 0.7143          
+    P-Value [Acc > NIR] : 0.92587         
+                                          
+                  Kappa : 0.2759          
+                                          
+ Mcnemar's Test P-Value : 0.04123         
+                                          
+            Sensitivity : 1.0000          
+            Specificity : 0.4000          
+         Pos Pred Value : 0.4000          
+         Neg Pred Value : 1.0000          
+             Prevalence : 0.2857          
+         Detection Rate : 0.2857          
+   Detection Prevalence : 0.7143          
+      Balanced Accuracy : 0.7000          
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- bias_inequity ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 12  1
+         1  0  1
+                                          
+               Accuracy : 0.9286          
+                 95% CI : (0.6613, 0.9982)
+    No Information Rate : 0.8571          
+    P-Value [Acc > NIR] : 0.3851          
+                                          
+                  Kappa : 0.6316          
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.50000         
+            Specificity : 1.00000         
+         Pos Pred Value : 1.00000         
+         Neg Pred Value : 0.92308         
+             Prevalence : 0.14286         
+         Detection Rate : 0.07143         
+   Detection Prevalence : 0.07143         
+      Balanced Accuracy : 0.75000         
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- security_resilience ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction 0 1
+         0 6 1
+         1 1 6
+                                          
+               Accuracy : 0.8571          
+                 95% CI : (0.5719, 0.9822)
+    No Information Rate : 0.5             
+    P-Value [Acc > NIR] : 0.00647         
+                                          
+                  Kappa : 0.7143          
+                                          
+ Mcnemar's Test P-Value : 1.00000         
+                                          
+            Sensitivity : 0.8571          
+            Specificity : 0.8571          
+         Pos Pred Value : 0.8571          
+         Neg Pred Value : 0.8571          
+             Prevalence : 0.5000          
+         Detection Rate : 0.4286          
+   Detection Prevalence : 0.5000          
+      Balanced Accuracy : 0.8571          
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- transparency_accountability ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction 0 1
+         0 9 1
+         1 1 3
+                                          
+               Accuracy : 0.8571          
+                 95% CI : (0.5719, 0.9822)
+    No Information Rate : 0.7143          
+    P-Value [Acc > NIR] : 0.1904          
+                                          
+                  Kappa : 0.65            
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.7500          
+            Specificity : 0.9000          
+         Pos Pred Value : 0.7500          
+         Neg Pred Value : 0.9000          
+             Prevalence : 0.2857          
+         Detection Rate : 0.2143          
+   Detection Prevalence : 0.2857          
+      Balanced Accuracy : 0.8250          
+                                          
+       'Positive' Class : 1               
+                                          
+
+--- alignment ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction 0 1
+         0 9 4
+         1 0 1
+                                         
+               Accuracy : 0.7143         
+                 95% CI : (0.419, 0.9161)
+    No Information Rate : 0.6429         
+    P-Value [Acc > NIR] : 0.4007         
+                                         
+                  Kappa : 0.2432         
+                                         
+ Mcnemar's Test P-Value : 0.1336         
+                                         
+            Sensitivity : 0.20000        
+            Specificity : 1.00000        
+         Pos Pred Value : 1.00000        
+         Neg Pred Value : 0.69231        
+             Prevalence : 0.35714        
+         Detection Rate : 0.07143        
+   Detection Prevalence : 0.07143        
+      Balanced Accuracy : 0.60000        
+                                         
+       'Positive' Class : 1              
+                                         
+
+--- governance ---
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 11  0
+         1  1  2
+                                          
+               Accuracy : 0.9286          
+                 95% CI : (0.6613, 0.9982)
+    No Information Rate : 0.8571          
+    P-Value [Acc > NIR] : 0.3851          
+                                          
+                  Kappa : 0.7586          
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 1.0000          
+            Specificity : 0.9167          
+         Pos Pred Value : 0.6667          
+         Neg Pred Value : 1.0000          
+             Prevalence : 0.1429          
+         Detection Rate : 0.1429          
+   Detection Prevalence : 0.2143          
+      Balanced Accuracy : 0.9583          
+                                          
+       'Positive' Class : 1               
+                                          
+
+=== Intercoder Reliability ===
+
+--- Percentage Agreement ---
+Safety: 73.24%
+Categorization (average): 77.46%
+indiv_grp_harm: 78.87%
+info_epistemic_harm: 87.32%
+socioec_harm: 80.28%
+physical_harm: 97.18%
+abstract_harm: 60.56%
+reliability_safety: 60.56%
+bias_inequity: 83.10%
+security_resilience: 91.55%
+transparency_accountability: 61.97%
+alignment: 66.20%
+governance: 84.51%
+
+--- Fleiss' Kappa ---
+Safety: 0.5498
+Categorization (average): 0.4965
+
+Individual Category Kappa Values:
+  indiv_grp_harm: 0.0897
+  info_epistemic_harm: 0.6407
+  socioec_harm: 0.3867
+  physical_harm: 0.8566
+  abstract_harm: 0.4596
+  reliability_safety: 0.3217
+  bias_inequity: 0.5587
+  security_resilience: 0.8117
+  transparency_accountability: 0.4335
+  alignment: 0.3545
+  governance: 0.5477
